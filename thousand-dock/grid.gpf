@@ -1,0 +1,18 @@
+npts 80 92 50                        # num.grid points in xyz
+gridfld 5O3L.maps.fld                # grid_data_file
+spacing 1.0                          # spacing(A)
+receptor_types A C HD N OA SA        # receptor atom types
+ligand_types A C HD N NA OA SA       # ligand atom types
+receptor 5O3L.pdbqt                  # macromolecule
+gridcenter 177.763 141.872 148.006   # xyz-coordinates or auto
+smooth 0.5                           # store minimum energy w/in rad(A)
+map 5O3L.A.map                       # atom-specific affinity map
+map 5O3L.C.map                       # atom-specific affinity map
+map 5O3L.HD.map                      # atom-specific affinity map
+map 5O3L.N.map                       # atom-specific affinity map
+map 5O3L.NA.map                      # atom-specific affinity map
+map 5O3L.OA.map                      # atom-specific affinity map
+map 5O3L.SA.map                      # atom-specific affinity map
+elecmap 5O3L.e.map                   # electrostatic potential map
+dsolvmap 5O3L.d.map              # desolvation potential map
+dielectric -0.1465                   # <0, AD4 distance-dep.diel;>0, constant

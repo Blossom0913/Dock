@@ -1,0 +1,50 @@
+REMARK  Name = D:\2025Spring\protein-predic\thousand-dock\prepared\MOL_0159_temp.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_7  and  C7_9
+REMARK    2  A    between atoms: C7_9  and  N1_10
+REMARK    3  A    between atoms: C13_17  and  C14_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      -2.017   0.122  -0.926  0.00  0.00    +0.000 NA
+ATOM      2  C8  UNL     1      -3.217   0.514  -1.677  0.00  0.00    +0.000 C 
+ATOM      3  C9  UNL     1      -2.938   0.043  -3.086  0.00  0.00    +0.000 C 
+ATOM      4  C10 UNL     1      -1.475   0.398  -3.242  0.00  0.00    +0.000 C 
+ATOM      5  C11 UNL     1      -0.850   0.085  -1.862  0.00  0.00    +0.000 C 
+ATOM      6  C12 UNL     1       0.345   1.039  -1.624  0.00  0.00    +0.000 C 
+ATOM      7  N2  UNL     1       1.351   0.645  -0.630  0.00  0.00    +0.000 N 
+ATOM      8  C13 UNL     1       2.338   1.617  -0.388  0.00  0.00    +0.000 C 
+ATOM      9  O1  UNL     1       2.156   2.816  -0.608  0.00  0.00    +0.000 OA
+ATOM     10  C20 UNL     1       1.272  -0.651  -0.029  0.00  0.00    +0.000 A 
+ATOM     11  C21 UNL     1       1.898  -0.949   1.190  0.00  0.00    +0.000 A 
+ATOM     12  C22 UNL     1       1.812  -2.224   1.758  0.00  0.00    +0.000 A 
+ATOM     13  C23 UNL     1       1.080  -3.220   1.125  0.00  0.00    +0.000 A 
+ATOM     14  C24 UNL     1       0.411  -2.932  -0.061  0.00  0.00    +0.000 A 
+ATOM     15  C25 UNL     1       0.481  -1.648  -0.625  0.00  0.00    +0.000 A 
+ATOM     16  C26 UNL     1      -0.288  -1.354  -1.885  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   8  17
+ATOM     17  C14 UNL     1       3.711   1.223   0.020  0.00  0.00    +0.000 A 
+ATOM     18  C15 UNL     1       4.371   0.148  -0.592  0.00  0.00    +0.000 A 
+ATOM     19  C16 UNL     1       5.675  -0.175  -0.210  0.00  0.00    +0.000 A 
+ATOM     20  C17 UNL     1       6.323   0.587   0.762  0.00  0.00    +0.000 A 
+ATOM     21 CL1  UNL     1       7.929   0.185   1.230  0.00  0.00    +0.000 Cl
+ATOM     22  C18 UNL     1       5.683   1.676   1.352  0.00  0.00    +0.000 A 
+ATOM     23  C19 UNL     1       4.378   2.002   0.974  0.00  0.00    +0.000 A 
+ENDBRANCH   8  17
+BRANCH   1  24
+ATOM     24  C7  UNL     1      -1.862   0.889   0.311  0.00  0.00    +0.000 C 
+BRANCH  24  31
+ATOM     25  F1  UNL     1      -5.788   2.016   3.014  0.00  0.00    +0.000 F 
+ATOM     26  C1  UNL     1      -4.867   1.111   2.655  0.00  0.00    +0.000 A 
+ATOM     27  C2  UNL     1      -4.887  -0.161   3.211  0.00  0.00    +0.000 A 
+ATOM     28  F2  UNL     1      -5.827  -0.491   4.109  0.00  0.00    +0.000 F 
+ATOM     29  C3  UNL     1      -3.929  -1.089   2.830  0.00  0.00    +0.000 A 
+ATOM     30  C4  UNL     1      -2.950  -0.754   1.898  0.00  0.00    +0.000 A 
+ATOM     31  C5  UNL     1      -2.924   0.532   1.331  0.00  0.00    +0.000 A 
+ATOM     32  C6  UNL     1      -3.896   1.466   1.721  0.00  0.00    +0.000 A 
+ATOM     33  F3  UNL     1      -3.937  -2.322   3.358  0.00  0.00    +0.000 F 
+ENDBRANCH  24  31
+ENDBRANCH   1  24
+TORSDOF 3

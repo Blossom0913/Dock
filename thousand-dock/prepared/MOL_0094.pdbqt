@@ -1,0 +1,36 @@
+REMARK  Name = D:\2025Spring\protein-predic\thousand-dock\prepared\MOL_0094_temp.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C13_15
+REMARK    3  A    between atoms: C7_8  and  C8_10
+REMARK    4  A    between atoms: C13_15  and  O2_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1      -3.348   2.320   0.716  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1      -2.714   0.919   0.833  0.00  0.00    +0.000 C 
+ATOM      3  C3  UNL     1      -2.660   0.232  -0.551  0.00  0.00    +0.000 C 
+ATOM      4  C4  UNL     1      -1.323   0.455  -1.254  0.00  0.00    +0.000 C 
+ATOM      5  N1  UNL     1      -0.199  -0.053  -0.464  0.00  0.00    +0.000 N 
+ATOM      6  C5  UNL     1      -0.347  -0.030   0.993  0.00  0.00    +0.000 C 
+ATOM      7  C6  UNL     1      -1.298   1.078   1.444  0.00  0.00    +0.000 C 
+ATOM      8  C7  UNL     1       0.907  -0.558  -1.145  0.00  0.00    +0.000 C 
+ATOM      9  O1  UNL     1       0.984  -0.499  -2.374  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   8  10
+ATOM     10  C8  UNL     1       2.041  -1.165  -0.311  0.00  0.00    +0.000 C 
+ATOM     11  C9  UNL     1       2.969  -0.068   0.242  0.00  0.00    +0.000 C 
+ATOM     12  C10 UNL     1       4.382  -0.464  -0.173  0.00  0.00    +0.000 C 
+ATOM     13  C11 UNL     1       4.181  -1.247  -1.457  0.00  0.00    +0.000 C 
+ATOM     14  C12 UNL     1       2.949  -2.084  -1.148  0.00  0.00    +0.000 C 
+ENDBRANCH   8  10
+BRANCH   2  15
+ATOM     15  C13 UNL     1      -3.538   0.029   1.759  0.00  0.00    +0.000 C 
+ATOM     16  O3  UNL     1      -3.101  -0.890   2.439  0.00  0.00    +0.000 OA
+BRANCH  15  17
+ATOM     17  O2  UNL     1      -4.863   0.288   1.742  0.00  0.00    +0.000 OA
+ATOM     18  H21 UNL     1      -5.255  -0.385   2.339  0.00  0.00    +0.000 HD
+ENDBRANCH  15  17
+ENDBRANCH   2  15
+TORSDOF 3

@@ -1,0 +1,46 @@
+          AutoDock 4.2 Release 4.2.6   
+         (C) 1989-2012 The Scripps Research Institute
+        AutoDock comes with ABSOLUTELY NO WARRANTY.
+        AutoDock is free software, and you are welcome
+        to redistribute it under certain conditions;
+        for details type 'autodock4 -C'
+
+                     main.cc  $Revision: 1.213 $
+
+                   Compiled on Jul 18 2014 at 15:34:58
+
+
+This file was created at:			4:21 52" p.m., 06/09/2025
+                   on host:		"LAPTOP-40J2BMTQ"
+Current Working Directory = "D:\2025Spring\protein-predic\thousand-dock"
+
+      ________________________________________________________________
+
+                   SETTING UP DEFAULT PARAMETER LIBRARY
+      ________________________________________________________________
+
+
+Random number generator was seeded with values 173972, 1749457312.
+Docking parameter file (DPF) used for this docking:		D:/2025Spring/protein-predic/thousand-dock/dock-e.dpf
+DPF> autodock_parameter_version 4.2       # used by autodock to validate parameter set
+
+	Autodock parameter version 4.2.
+DPF> outlev 1                             # diagnostic output level
+
+Output Level = 1  ADT-COMPATIBLE OUTPUT DURING DOCKING.
+DPF> intelec                              # calculate internal electrostatics
+
+Electrostatic energies will be calculated for all non-bonds between moving atoms.
+DPF> seed pid time                        # seeds for random generator
+
+Random number generator was seeded with values 173972, 1749457312.
+DPF> ligand_types A C HD OA               # atoms types in ligand
+
+DPF> fld EGCG.maps.fld                    # grid_data_file
+
+Real= 0.06,  CPU= 0.06,  System= 0.00
+autodock4: I'm sorry; I can't find or open "EGCG.maps.fld"
+autodock4: FATAL ERROR: autodock4: I'm sorry; I can't find or open "EGCG.maps.fld"
+
+autodock4: Unsuccessful Completion.
+

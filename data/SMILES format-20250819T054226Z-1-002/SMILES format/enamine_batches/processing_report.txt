@@ -1,0 +1,124 @@
+=== SMILES Batch Processing Report ===
+
+Processing time: 2025-05-29 10:59:43
+Total processing time: 11507.55s (191.8 minutes)
+Total records: 43,759,934
+Valid records: 43,759,934
+Invalid records: 0
+Number of batches: 110
+Processing rate: 228163 records/minute
+
+Batch Details:
+------------------------------------------------------------------------------------------
+Batch  Filename                                 Original  Valid     Invalid  Time(s) 
+------------------------------------------------------------------------------------------
+1      Enamine_REAL_batch_001_size_400000.smi   400000    400000    0        67.07   
+2      Enamine_REAL_batch_002_size_400000.smi   400000    400000    0        63.82   
+3      Enamine_REAL_batch_003_size_400000.smi   400000    400000    0        62.6    
+4      Enamine_REAL_batch_004_size_400000.smi   400000    400000    0        63.17   
+5      Enamine_REAL_batch_005_size_400000.smi   400000    400000    0        60.39   
+6      Enamine_REAL_batch_006_size_400000.smi   400000    400000    0        61.48   
+7      Enamine_REAL_batch_007_size_400000.smi   400000    400000    0        64.41   
+8      Enamine_REAL_batch_008_size_400000.smi   400000    400000    0        64.3    
+9      Enamine_REAL_batch_009_size_400000.smi   400000    400000    0        62.83   
+10     Enamine_REAL_batch_010_size_400000.smi   400000    400000    0        62.31   
+11     Enamine_REAL_batch_011_size_400000.smi   400000    400000    0        61.96   
+12     Enamine_REAL_batch_012_size_400000.smi   400000    400000    0        64.83   
+13     Enamine_REAL_batch_013_size_400000.smi   400000    400000    0        66.72   
+14     Enamine_REAL_batch_014_size_400000.smi   400000    400000    0        62.51   
+15     Enamine_REAL_batch_015_size_400000.smi   400000    400000    0        61.28   
+16     Enamine_REAL_batch_016_size_400000.smi   400000    400000    0        62.38   
+17     Enamine_REAL_batch_017_size_400000.smi   400000    400000    0        62.69   
+18     Enamine_REAL_batch_018_size_400000.smi   400000    400000    0        66.14   
+19     Enamine_REAL_batch_019_size_400000.smi   400000    400000    0        64.41   
+20     Enamine_REAL_batch_020_size_400000.smi   400000    400000    0        59.99   
+21     Enamine_REAL_batch_021_size_400000.smi   400000    400000    0        61.49   
+22     Enamine_REAL_batch_022_size_400000.smi   400000    400000    0        65.16   
+23     Enamine_REAL_batch_023_size_400000.smi   400000    400000    0        63.61   
+24     Enamine_REAL_batch_024_size_400000.smi   400000    400000    0        65.56   
+25     Enamine_REAL_batch_025_size_400000.smi   400000    400000    0        66.62   
+26     Enamine_REAL_batch_026_size_400000.smi   400000    400000    0        63.81   
+27     Enamine_REAL_batch_027_size_400000.smi   400000    400000    0        61.9    
+28     Enamine_REAL_batch_028_size_400000.smi   400000    400000    0        63.72   
+29     Enamine_REAL_batch_029_size_400000.smi   400000    400000    0        65.09   
+30     Enamine_REAL_batch_030_size_400000.smi   400000    400000    0        65.72   
+31     Enamine_REAL_batch_031_size_400000.smi   400000    400000    0        67.59   
+32     Enamine_REAL_batch_032_size_400000.smi   400000    400000    0        63.22   
+33     Enamine_REAL_batch_033_size_400000.smi   400000    400000    0        67.57   
+34     Enamine_REAL_batch_034_size_400000.smi   400000    400000    0        59.73   
+35     Enamine_REAL_batch_035_size_400000.smi   400000    400000    0        69.0    
+36     Enamine_REAL_batch_036_size_400000.smi   400000    400000    0        62.75   
+37     Enamine_REAL_batch_037_size_400000.smi   400000    400000    0        62.24   
+38     Enamine_REAL_batch_038_size_400000.smi   400000    400000    0        69.17   
+39     Enamine_REAL_batch_039_size_400000.smi   400000    400000    0        65.04   
+40     Enamine_REAL_batch_040_size_400000.smi   400000    400000    0        65.14   
+41     Enamine_REAL_batch_041_size_400000.smi   400000    400000    0        64.42   
+42     Enamine_REAL_batch_042_size_400000.smi   400000    400000    0        70.61   
+43     Enamine_REAL_batch_043_size_400000.smi   400000    400000    0        63.78   
+44     Enamine_REAL_batch_044_size_400000.smi   400000    400000    0        57.51   
+45     Enamine_REAL_batch_045_size_400000.smi   400000    400000    0        67.0    
+46     Enamine_REAL_batch_046_size_400000.smi   400000    400000    0        215.8   
+47     Enamine_REAL_batch_047_size_400000.smi   400000    400000    0        47.97   
+48     Enamine_REAL_batch_048_size_400000.smi   400000    400000    0        62.06   
+49     Enamine_REAL_batch_049_size_400000.smi   400000    400000    0        80.8    
+50     Enamine_REAL_batch_050_size_400000.smi   400000    400000    0        78.7    
+51     Enamine_REAL_batch_051_size_400000.smi   400000    400000    0        78.47   
+52     Enamine_REAL_batch_052_size_400000.smi   400000    400000    0        76.25   
+53     Enamine_REAL_batch_053_size_400000.smi   400000    400000    0        77.58   
+54     Enamine_REAL_batch_054_size_400000.smi   400000    400000    0        80.26   
+55     Enamine_REAL_batch_055_size_400000.smi   400000    400000    0        74.48   
+56     Enamine_REAL_batch_056_size_400000.smi   400000    400000    0        78.41   
+57     Enamine_REAL_batch_057_size_400000.smi   400000    400000    0        77.05   
+58     Enamine_REAL_batch_058_size_400000.smi   400000    400000    0        79.49   
+59     Enamine_REAL_batch_059_size_400000.smi   400000    400000    0        77.07   
+60     Enamine_REAL_batch_060_size_400000.smi   400000    400000    0        102.75  
+61     Enamine_REAL_batch_061_size_400000.smi   400000    400000    0        253.47  
+62     Enamine_REAL_batch_062_size_400000.smi   400000    400000    0        262.8   
+63     Enamine_REAL_batch_063_size_400000.smi   400000    400000    0        270.41  
+64     Enamine_REAL_batch_064_size_400000.smi   400000    400000    0        244.12  
+65     Enamine_REAL_batch_065_size_400000.smi   400000    400000    0        209.82  
+66     Enamine_REAL_batch_066_size_400000.smi   400000    400000    0        285.04  
+67     Enamine_REAL_batch_067_size_400000.smi   400000    400000    0        283.02  
+68     Enamine_REAL_batch_068_size_400000.smi   400000    400000    0        131.35  
+69     Enamine_REAL_batch_069_size_400000.smi   400000    400000    0        163.52  
+70     Enamine_REAL_batch_070_size_400000.smi   400000    400000    0        141.56  
+71     Enamine_REAL_batch_071_size_400000.smi   400000    400000    0        110.95  
+72     Enamine_REAL_batch_072_size_400000.smi   400000    400000    0        122.7   
+73     Enamine_REAL_batch_073_size_400000.smi   400000    400000    0        124.5   
+74     Enamine_REAL_batch_074_size_400000.smi   400000    400000    0        142.54  
+75     Enamine_REAL_batch_075_size_400000.smi   400000    400000    0        130.22  
+76     Enamine_REAL_batch_076_size_400000.smi   400000    400000    0        144.62  
+77     Enamine_REAL_batch_077_size_400000.smi   400000    400000    0        132.11  
+78     Enamine_REAL_batch_078_size_400000.smi   400000    400000    0        134.2   
+79     Enamine_REAL_batch_079_size_400000.smi   400000    400000    0        138.75  
+80     Enamine_REAL_batch_080_size_400000.smi   400000    400000    0        156.0   
+81     Enamine_REAL_batch_081_size_400000.smi   400000    400000    0        123.45  
+82     Enamine_REAL_batch_082_size_400000.smi   400000    400000    0        152.43  
+83     Enamine_REAL_batch_083_size_400000.smi   400000    400000    0        158.2   
+84     Enamine_REAL_batch_084_size_400000.smi   400000    400000    0        153.0   
+85     Enamine_REAL_batch_085_size_400000.smi   400000    400000    0        143.75  
+86     Enamine_REAL_batch_086_size_400000.smi   400000    400000    0        161.86  
+87     Enamine_REAL_batch_087_size_400000.smi   400000    400000    0        143.55  
+88     Enamine_REAL_batch_088_size_400000.smi   400000    400000    0        135.35  
+89     Enamine_REAL_batch_089_size_400000.smi   400000    400000    0        102.81  
+90     Enamine_REAL_batch_090_size_400000.smi   400000    400000    0        126.61  
+91     Enamine_REAL_batch_091_size_400000.smi   400000    400000    0        156.47  
+92     Enamine_REAL_batch_092_size_400000.smi   400000    400000    0        151.79  
+93     Enamine_REAL_batch_093_size_400000.smi   400000    400000    0        158.17  
+94     Enamine_REAL_batch_094_size_400000.smi   400000    400000    0        166.87  
+95     Enamine_REAL_batch_095_size_400000.smi   400000    400000    0        158.75  
+96     Enamine_REAL_batch_096_size_400000.smi   400000    400000    0        161.66  
+97     Enamine_REAL_batch_097_size_400000.smi   400000    400000    0        119.44  
+98     Enamine_REAL_batch_098_size_400000.smi   400000    400000    0        75.51   
+99     Enamine_REAL_batch_099_size_400000.smi   400000    400000    0        151.39  
+100    Enamine_REAL_batch_100_size_400000.smi   400000    400000    0        171.77  
+101    Enamine_REAL_batch_101_size_400000.smi   400000    400000    0        154.64  
+102    Enamine_REAL_batch_102_size_400000.smi   400000    400000    0        166.1   
+103    Enamine_REAL_batch_103_size_400000.smi   400000    400000    0        153.94  
+104    Enamine_REAL_batch_104_size_400000.smi   400000    400000    0        66.62   
+105    Enamine_REAL_batch_105_size_400000.smi   400000    400000    0        63.47   
+106    Enamine_REAL_batch_106_size_400000.smi   400000    400000    0        61.6    
+107    Enamine_REAL_batch_107_size_400000.smi   400000    400000    0        63.01   
+108    Enamine_REAL_batch_108_size_400000.smi   400000    400000    0        64.58   
+109    Enamine_REAL_batch_109_size_400000.smi   400000    400000    0        64.07   
+110    Enamine_REAL_batch_110_size_159934.smi   159934    159934    0        25.02   

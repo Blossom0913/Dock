@@ -1,0 +1,305 @@
+
+
+(rdkit-env) root@LAPTOP-40J2BMTQ:~/pymol/bash_file# bash vina_screen_local.sh
+正在处理配体: MOL_0015
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 488034600
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -8.2      0.000      0.000
+   2         -8.2     62.220     63.661
+   3         -8.0     62.337     64.305
+   4         -8.0      1.907      8.568
+   5         -7.9     62.672     64.639
+   6         -7.8      3.323      9.736
+   7         -7.8     62.439     63.980
+   8         -7.8      0.946      2.018
+   9         -7.7      1.953      8.741
+Writing output ... done.
+完成对接: MOL_0015 → 结果保存到 outcome-5/MOL_0015/out.pdbqt
+正在处理配体: MOL_0293
+
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1592151872
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -8.3      0.000      0.000
+   2         -8.1     62.148     64.336
+   3         -8.1      1.923     10.924
+   4         -8.0      2.024     10.502
+   5         -7.9     62.570     64.750
+   6         -7.8     62.545     64.050
+   7         -7.7     62.560     64.001
+   8         -7.6      2.287      3.423
+   9         -7.6     61.981     63.411
+Writing output ... done.
+完成对接: MOL_0293 → 结果保存到 outcome-5/MOL_0293/out.pdbqt
+正在处理配体: MOL_0627
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 622636105
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -8.0      0.000      0.000
+   2         -7.6     62.635     64.635
+   3         -7.2     62.612     64.449
+   4         -7.1      2.771      4.775
+   5         -7.1     63.298     65.259
+   6         -7.0      2.537      5.770
+   7         -7.0     62.743     64.908
+   8         -7.0      2.083      4.993
+   9         -6.9     63.140     65.014
+Writing output ... done.
+完成对接: MOL_0627 → 结果保存到 outcome-5/MOL_0627/out.pdbqt
+正在处理配体: MOL_0633
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1457548815
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -6.5      0.000      0.000
+   2         -6.5     62.745     65.383
+   3         -6.4      2.891      7.643
+   4         -6.4     63.031     65.661
+   5         -6.4     62.777     65.411
+   6         -6.2     16.716     18.904
+   7         -6.1     50.597     52.773
+   8         -6.1     49.464     51.907
+   9         -6.1     63.173     65.657
+Writing output ... done.
+完成对接: MOL_0633 → 结果保存到 outcome-5/MOL_0633/out.pdbqt
+正在处理配体: MOL_0744
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 757208661
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.2      0.000      0.000
+   2         -7.0     29.268     31.519
+   3         -7.0     29.131     31.503
+   4         -6.7     55.520     57.476
+   5         -6.7     55.491     57.439
+   6         -6.6     19.905     21.432
+   7         -6.6     55.742     57.091
+   8         -6.6     55.323     56.689
+   9         -6.6     20.082     20.307
+Writing output ... done.
+完成对接: MOL_0744 → 结果保存到 outcome-5/MOL_0744/out.pdbqt
+正在处理配体: MOL_0795
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... D:\2025Spring\protein-predic\thousand-dock\prepared\MOL_0988.pdbqtdone.
+Using random seed: -1323019818
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.6      0.000      0.000
+   2         -5.5     62.239     63.772
+   3         -5.4      1.893      2.395
+   4         -5.4      1.901      6.481
+   5         -5.3     62.567     64.571
+   6         -5.3     62.360     64.463
+   7         -5.3      1.645      6.593
+   8         -5.3      2.108      7.982
+   9         -5.3      1.900      3.921
+Writing output ... done.
+完成对接: MOL_0795 → 结果保存到 outcome-5/MOL_0795/out.pdbqt
+正在处理配体: MOL_0808
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 891777584
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.2      0.000      0.000
+   2         -7.2     60.095     61.118
+   3         -7.1     31.198     32.529
+   4         -7.1     60.111     61.124
+   5         -7.0      2.896      4.683
+   6         -7.0     37.969     39.444
+   7         -6.9     61.922     63.413
+   8         -6.8      2.409      6.678
+   9         -6.6     13.969     16.663
+Writing output ... done.
+完成对接: MOL_0808 → 结果保存到 outcome-5/MOL_0808/out.pdbqt
+正在处理配体: MOL_0842
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1188443198
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -6.3      0.000      0.000
+   2         -6.2     61.883     63.624
+   3         -6.2     62.218     63.964
+   4         -6.2      1.136      2.468
+   5         -6.1      3.494      5.696
+   6         -6.0      2.319      7.208
+   7         -6.0      2.307      6.638
+   8         -6.0     61.968     63.907
+   9         -6.0     62.110     63.857
+Writing output ... done.
+完成对接: MOL_0842 → 结果保存到 outcome-5/MOL_0842/out.pdbqt
+正在处理配体: MOL_0889
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 1026349259
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.6      0.000      0.000
+   2         -7.6     61.741     63.373
+   3         -7.4      2.538      4.746
+   4         -7.4     61.826     63.262
+   5         -7.4     61.620     63.277
+   6         -7.3      2.035      3.050
+   7         -7.2     61.818     63.651
+   8         -7.1      1.971      9.123
+   9         -7.1      2.089      9.144
+Writing output ... done.
+完成对接: MOL_0889 → 结果保存到 outcome-5/MOL_0889/out.pdbqt
+正在处理配体: MOL_0988
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Detected 12 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -1053824780
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -9.0      0.000      0.000
+   2         -8.8     35.137     35.363
+   3         -8.7     27.592     28.875
+   4         -8.7     41.971     42.785
+   5         -8.4     41.753     42.485
+   6         -8.4     27.477     28.747
+   7         -8.4     27.752     29.997
+   8         -8.4     41.829     43.205
+   9         -8.2     41.997     43.294
+Writing output ... done.
+完成对接: MOL_0988 → 结果保存到 outcome-5/MOL_0988/out.pdbqt
+所有配体对接完成！结果已保存到 outcome 目录

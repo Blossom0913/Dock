@@ -1,0 +1,6 @@
+
+--- STDERR ---
+==============================
+*** Open Babel Error  in ParseSimple
+  SMILES string contains a character 't' which is invalid
+0 molecules converted

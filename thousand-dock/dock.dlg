@@ -1,0 +1,69 @@
+          AutoDock 4.2 Release 4.2.6   
+         (C) 1989-2012 The Scripps Research Institute
+        AutoDock comes with ABSOLUTELY NO WARRANTY.
+        AutoDock is free software, and you are welcome
+        to redistribute it under certain conditions;
+        for details type 'autodock4 -C'
+
+                     main.cc  $Revision: 1.213 $
+
+                   Compiled on Jul 18 2014 at 15:34:58
+
+
+This file was created at:			8:15 53" p.m., 05/29/2025
+                   on host:		"LAPTOP-40J2BMTQ"
+Current Working Directory = "D:\2025Spring\protein-predic\thousand-dock"
+
+      ________________________________________________________________
+
+                   SETTING UP DEFAULT PARAMETER LIBRARY
+      ________________________________________________________________
+
+
+Random number generator was seeded with values 61204, 1748520953.
+Docking parameter file (DPF) used for this docking:		D:/2025Spring/protein-predic/thousand-dock/dock.dpf
+DPF> autodock_parameter_version 4.2       # used by autodock to validate parameter set
+
+	Autodock parameter version 4.2.
+DPF> outlev 1                             # diagnostic output level
+
+Output Level = 1  ADT-COMPATIBLE OUTPUT DURING DOCKING.
+DPF> intelec                              # calculate internal electrostatics
+
+Electrostatic energies will be calculated for all non-bonds between moving atoms.
+DPF> seed pid time                        # seeds for random generator
+
+Random number generator was seeded with values 61204, 1748520953.
+DPF> ligand_types A C OA N S HD           # atoms types in ligand
+
+DPF> fld 5O3L.maps.fld                    # grid_data_file
+
+Opening Grid Map Dimensions file:		5O3L.maps.fld
+Grid Point Spacing =				0.758 Angstroms
+
+Even Number of User-specified Grid Points =	126 x-points
+						126 y-points
+						92 z-points
+
+Coordinates of Central Grid Point of Maps =	(177.763, 141.872, 148.006)
+Macromolecule file used to create Grid Maps =	5O3L.pdbqt
+Grid Parameter file used to create Grid Maps =	D:/2025Spring/protein-predic/thousand-dock/grid.gpf
+Minimum coordinates in grid = (130.009, 94.118, 113.138)
+Maximum coordinates in grid = (225.517, 189.626, 182.874)
+
+DPF> map 5O3L.A.map                       # atom-specific affinity map
+
+DPF> map 5O3L.C.map                       # atom-specific affinity map
+
+DPF> map 5O3L.OA.map                      # atom-specific affinity map
+
+DPF> map 5O3L.N.map                       # atom-specific affinity map
+
+DPF> map 5O3L.S.map                       # atom-specific affinity map
+
+Real= 1.16,  CPU= 1.08,  System= 0.05
+autodock4: I'm sorry; I can't find or open "5O3L.S.map"
+autodock4: FATAL ERROR: autodock4: I'm sorry; I can't find or open "5O3L.S.map"
+
+autodock4: Unsuccessful Completion.
+

@@ -1,0 +1,27 @@
+REMARK  Name = D:\2025Spring\protein-predic\thousand-dock\prepared\MOL_0669_temp.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_9  and  C7_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      -0.680   0.433   0.474  0.00  0.00    +0.000 N 
+ATOM      2  C1  UNL     1      -1.979   0.183   0.126  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      -1.878  -0.549  -1.047  0.00  0.00    +0.000 A 
+ATOM      4  N2  UNL     1      -2.951  -1.004  -1.729  0.00  0.00    +0.000 NA
+ATOM      5  C3  UNL     1      -4.139  -0.685  -1.174  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      -4.319   0.044  -0.002  0.00  0.00    +0.000 A 
+ATOM      7  C5  UNL     1      -3.206   0.509   0.696  0.00  0.00    +0.000 A 
+ATOM      8  N3  UNL     1      -0.573  -0.737  -1.398  0.00  0.00    +0.000 NA
+ATOM      9  C6  UNL     1       0.156  -0.136  -0.468  0.00  0.00    +0.000 A 
+ATOM     10  H1  UNL     1      -0.385   0.949   1.287  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   9  11
+ATOM     11  C7  UNL     1       1.627  -0.064  -0.410  0.00  0.00    +0.000 A 
+ATOM     12  N4  UNL     1       2.266  -0.686  -1.429  0.00  0.00    +0.000 NA
+ATOM     13  C8  UNL     1       3.615  -0.661  -1.442  0.00  0.00    +0.000 A 
+ATOM     14  C9  UNL     1       4.379  -0.035  -0.475  0.00  0.00    +0.000 A 
+ATOM     15  C10 UNL     1       3.718   0.601   0.568  0.00  0.00    +0.000 A 
+ATOM     16  C11 UNL     1       2.324   0.590   0.605  0.00  0.00    +0.000 A 
+ENDBRANCH   9  11
+TORSDOF 1

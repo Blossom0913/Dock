@@ -1,0 +1,9 @@
+receptor = 5O3L.pdbqt
+ligand = MOL_0015.pdbqt
+center_x = 180.156
+center_y = 140.651
+center_z = 145.891
+size_x = 61.95
+size_y = 61.95
+size_z = 61.95
+out = MOL_0015_out.pdbqt

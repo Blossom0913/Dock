@@ -1,0 +1,37 @@
+REMARK  Name = D:\2025Spring\protein-predic\thousand-dock\prepared\MOL_0229_temp.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C13_15  and  C14_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      -3.042   0.641   2.016  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      -2.825   0.146   0.908  0.00  0.00    +0.000 C 
+ATOM      3  N1  UNL     1      -1.526  -0.025   0.434  0.00  0.00    +0.000 N 
+ATOM      4  C7  UNL     1      -0.420   0.314   1.331  0.00  0.00    +0.000 C 
+ATOM      5  C8  UNL     1       0.805  -0.552   1.071  0.00  0.00    +0.000 C 
+ATOM      6  C9  UNL     1       1.298  -0.416  -0.382  0.00  0.00    +0.000 C 
+ATOM      7  C10 UNL     1       0.166  -0.073  -1.360  0.00  0.00    +0.000 C 
+ATOM      8  C11 UNL     1      -1.173  -0.607  -0.864  0.00  0.00    +0.000 C 
+ATOM      9  C12 UNL     1       2.464   0.551  -0.532  0.00  0.00    +0.000 C 
+ATOM     10  C13 UNL     1       3.585  -0.415  -0.350  0.00  0.00    +0.000 C 
+ATOM     11  N2  UNL     1       3.249  -1.657  -0.492  0.00  0.00    +0.000 NA
+ATOM     12  O2  UNL     1       1.863  -1.686  -0.771  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH  10  13
+ATOM     13  C14 UNL     1       4.964   0.022  -0.060  0.00  0.00    +0.000 A 
+ATOM     14  C15 UNL     1       5.954  -0.924   0.214  0.00  0.00    +0.000 A 
+ATOM     15  C16 UNL     1       7.252  -0.500   0.488  0.00  0.00    +0.000 A 
+ATOM     16  C17 UNL     1       7.516   0.860   0.475  0.00  0.00    +0.000 A 
+ATOM     17  N3  UNL     1       6.583   1.802   0.210  0.00  0.00    +0.000 NA
+ATOM     18  C18 UNL     1       5.329   1.361  -0.054  0.00  0.00    +0.000 A 
+ENDBRANCH  10  13
+BRANCH   2  19
+ATOM     19  C2  UNL     1      -3.979  -0.265  -0.013  0.00  0.00    +0.000 C 
+ATOM     20  C3  UNL     1      -5.304  -0.412   0.749  0.00  0.00    +0.000 C 
+ATOM     21  C4  UNL     1      -6.004   0.925   0.565  0.00  0.00    +0.000 C 
+ATOM     22  C5  UNL     1      -5.686   1.276  -0.876  0.00  0.00    +0.000 C 
+ATOM     23  C6  UNL     1      -4.243   0.818  -1.074  0.00  0.00    +0.000 C 
+ENDBRANCH   2  19
+TORSDOF 2

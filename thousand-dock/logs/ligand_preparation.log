@@ -1,0 +1,1929 @@
+[2025-05-30 16:32:42] Starting ligand preparation process
+[2025-05-30 16:32:42] Ligands directory: D:\2025Spring\protein-predic\thousand-dock\ligands
+[2025-05-30 16:32:42] Prepared directory: D:\2025Spring\protein-predic\thousand-dock\prepared
+[2025-05-30 16:32:42] Processing: MOL_0001
+[2025-05-30 16:32:43] Success: MOL_0001 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0002
+[2025-05-30 16:32:43] Success: MOL_0002 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0003
+[2025-05-30 16:32:43] Success: MOL_0003 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0004
+[2025-05-30 16:32:43] Success: MOL_0004 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0005
+[2025-05-30 16:32:43] Success: MOL_0005 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0006
+[2025-05-30 16:32:43] Success: MOL_0006 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0007
+[2025-05-30 16:32:43] Success: MOL_0007 converted to PDBQT
+[2025-05-30 16:32:43] Processing: MOL_0008
+[2025-05-30 16:32:44] Success: MOL_0008 converted to PDBQT
+[2025-05-30 16:32:44] Processing: MOL_0009
+[2025-05-30 16:32:44] Success: MOL_0009 converted to PDBQT
+[2025-05-30 16:32:44] Processing: MOL_0010
+[2025-05-30 16:32:44] Success: MOL_0010 converted to PDBQT
+[2025-05-30 16:32:44] Processing: MOL_0011
+[2025-05-30 16:32:44] Success: MOL_0011 converted to PDBQT
+[2025-05-30 16:32:44] Processing: MOL_0012
+[2025-05-30 16:32:44] Success: MOL_0012 converted to PDBQT
+[2025-05-30 16:32:44] Processing: MOL_0013
+[2025-05-30 16:32:44] Success: MOL_0013 converted to PDBQT
+[2025-05-30 16:32:44] Processing: MOL_0014
+[2025-05-30 16:32:44] Success: MOL_0014 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0015
+[2025-05-30 16:32:45] Success: MOL_0015 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0016
+[2025-05-30 16:32:45] Success: MOL_0016 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0017
+[2025-05-30 16:32:45] Success: MOL_0017 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0018
+[2025-05-30 16:32:45] Success: MOL_0018 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0019
+[2025-05-30 16:32:45] Success: MOL_0019 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0020
+[2025-05-30 16:32:45] Success: MOL_0020 converted to PDBQT
+[2025-05-30 16:32:45] Processing: MOL_0021
+[2025-05-30 16:32:46] Success: MOL_0021 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0022
+[2025-05-30 16:32:46] Success: MOL_0022 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0023
+[2025-05-30 16:32:46] Success: MOL_0023 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0024
+[2025-05-30 16:32:46] Success: MOL_0024 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0025
+[2025-05-30 16:32:46] Success: MOL_0025 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0026
+[2025-05-30 16:32:46] Success: MOL_0026 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0027
+[2025-05-30 16:32:46] Success: MOL_0027 converted to PDBQT
+[2025-05-30 16:32:46] Processing: MOL_0028
+[2025-05-30 16:32:47] Success: MOL_0028 converted to PDBQT
+[2025-05-30 16:32:47] Processing: MOL_0029
+[2025-05-30 16:32:47] Success: MOL_0029 converted to PDBQT
+[2025-05-30 16:32:47] Processing: MOL_0030
+[2025-05-30 16:32:47] Success: MOL_0030 converted to PDBQT
+[2025-05-30 16:32:47] Processing: MOL_0031
+[2025-05-30 16:32:47] Success: MOL_0031 converted to PDBQT
+[2025-05-30 16:32:47] Processing: MOL_0032
+[2025-05-30 16:32:47] Success: MOL_0032 converted to PDBQT
+[2025-05-30 16:32:47] Processing: MOL_0033
+[2025-05-30 16:32:47] Success: MOL_0033 converted to PDBQT
+[2025-05-30 16:32:47] Processing: MOL_0034
+[2025-05-30 16:32:48] Success: MOL_0034 converted to PDBQT
+[2025-05-30 16:32:48] Processing: MOL_0035
+[2025-05-30 16:32:48] Success: MOL_0035 converted to PDBQT
+[2025-05-30 16:32:48] Processing: MOL_0036
+[2025-05-30 16:32:48] Success: MOL_0036 converted to PDBQT
+[2025-05-30 16:32:48] Processing: MOL_0037
+[2025-05-30 16:32:48] Success: MOL_0037 converted to PDBQT
+[2025-05-30 16:32:48] Processing: MOL_0038
+[2025-05-30 16:32:48] Success: MOL_0038 converted to PDBQT
+[2025-05-30 16:32:48] Processing: MOL_0039
+[2025-05-30 16:32:48] Success: MOL_0039 converted to PDBQT
+[2025-05-30 16:32:48] Processing: MOL_0040
+[2025-05-30 16:32:49] Success: MOL_0040 converted to PDBQT
+[2025-05-30 16:32:49] Processing: MOL_0041
+[2025-05-30 16:32:49] Success: MOL_0041 converted to PDBQT
+[2025-05-30 16:32:49] Processing: MOL_0042
+[2025-05-30 16:32:49] Success: MOL_0042 converted to PDBQT
+[2025-05-30 16:32:49] Processing: MOL_0043
+[2025-05-30 16:32:49] Success: MOL_0043 converted to PDBQT
+[2025-05-30 16:32:49] Processing: MOL_0044
+[2025-05-30 16:32:49] Success: MOL_0044 converted to PDBQT
+[2025-05-30 16:32:49] Processing: MOL_0045
+[2025-05-30 16:32:49] Success: MOL_0045 converted to PDBQT
+[2025-05-30 16:32:49] Processing: MOL_0046
+[2025-05-30 16:32:50] Success: MOL_0046 converted to PDBQT
+[2025-05-30 16:32:50] Processing: MOL_0047
+[2025-05-30 16:32:50] Success: MOL_0047 converted to PDBQT
+[2025-05-30 16:32:50] Processing: MOL_0048
+[2025-05-30 16:32:50] Success: MOL_0048 converted to PDBQT
+[2025-05-30 16:32:50] Processing: MOL_0049
+[2025-05-30 16:32:50] Success: MOL_0049 converted to PDBQT
+[2025-05-30 16:32:50] Processing: MOL_0050
+[2025-05-30 16:32:50] Success: MOL_0050 converted to PDBQT
+[2025-05-30 16:32:50] Processing: MOL_0051
+[2025-05-30 16:32:50] Success: MOL_0051 converted to PDBQT
+[2025-05-30 16:32:50] Processing: MOL_0052
+[2025-05-30 16:32:51] Success: MOL_0052 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0053
+[2025-05-30 16:32:51] Success: MOL_0053 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0054
+[2025-05-30 16:32:51] Success: MOL_0054 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0055
+[2025-05-30 16:32:51] Success: MOL_0055 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0056
+[2025-05-30 16:32:51] Success: MOL_0056 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0057
+[2025-05-30 16:32:51] Success: MOL_0057 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0058
+[2025-05-30 16:32:51] Success: MOL_0058 converted to PDBQT
+[2025-05-30 16:32:51] Processing: MOL_0059
+[2025-05-30 16:32:52] Success: MOL_0059 converted to PDBQT
+[2025-05-30 16:32:52] Processing: MOL_0060
+[2025-05-30 16:32:52] Success: MOL_0060 converted to PDBQT
+[2025-05-30 16:32:52] Processing: MOL_0061
+[2025-05-30 16:32:52] Success: MOL_0061 converted to PDBQT
+[2025-05-30 16:32:52] Processing: MOL_0062
+[2025-05-30 16:32:52] Success: MOL_0062 converted to PDBQT
+[2025-05-30 16:32:52] Processing: MOL_0063
+[2025-05-30 16:32:52] Success: MOL_0063 converted to PDBQT
+[2025-05-30 16:32:52] Processing: MOL_0064
+[2025-05-30 16:32:52] Success: MOL_0064 converted to PDBQT
+[2025-05-30 16:32:52] Processing: MOL_0065
+[2025-05-30 16:32:53] Success: MOL_0065 converted to PDBQT
+[2025-05-30 16:32:53] Processing: MOL_0066
+[2025-05-30 16:32:53] Success: MOL_0066 converted to PDBQT
+[2025-05-30 16:32:53] Processing: MOL_0067
+[2025-05-30 16:32:53] Success: MOL_0067 converted to PDBQT
+[2025-05-30 16:32:53] Processing: MOL_0068
+[2025-05-30 16:32:53] Success: MOL_0068 converted to PDBQT
+[2025-05-30 16:32:53] Processing: MOL_0069
+[2025-05-30 16:32:53] Success: MOL_0069 converted to PDBQT
+[2025-05-30 16:32:53] Processing: MOL_0070
+[2025-05-30 16:32:53] Success: MOL_0070 converted to PDBQT
+[2025-05-30 16:32:53] Processing: MOL_0071
+[2025-05-30 16:32:54] Success: MOL_0071 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0072
+[2025-05-30 16:32:54] Success: MOL_0072 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0073
+[2025-05-30 16:32:54] Success: MOL_0073 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0074
+[2025-05-30 16:32:54] Success: MOL_0074 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0075
+[2025-05-30 16:32:54] Success: MOL_0075 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0076
+[2025-05-30 16:32:54] Success: MOL_0076 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0077
+[2025-05-30 16:32:54] Success: MOL_0077 converted to PDBQT
+[2025-05-30 16:32:54] Processing: MOL_0078
+[2025-05-30 16:32:55] Success: MOL_0078 converted to PDBQT
+[2025-05-30 16:32:55] Processing: MOL_0079
+[2025-05-30 16:32:55] Success: MOL_0079 converted to PDBQT
+[2025-05-30 16:32:55] Processing: MOL_0080
+[2025-05-30 16:32:55] Success: MOL_0080 converted to PDBQT
+[2025-05-30 16:32:55] Processing: MOL_0081
+[2025-05-30 16:32:55] Success: MOL_0081 converted to PDBQT
+[2025-05-30 16:32:55] Processing: MOL_0082
+[2025-05-30 16:32:55] Success: MOL_0082 converted to PDBQT
+[2025-05-30 16:32:55] Processing: MOL_0083
+[2025-05-30 16:32:55] Success: MOL_0083 converted to PDBQT
+[2025-05-30 16:32:55] Processing: MOL_0084
+[2025-05-30 16:32:56] Success: MOL_0084 converted to PDBQT
+[2025-05-30 16:32:56] Processing: MOL_0085
+[2025-05-30 16:32:56] Success: MOL_0085 converted to PDBQT
+[2025-05-30 16:32:56] Processing: MOL_0086
+[2025-05-30 16:32:56] Success: MOL_0086 converted to PDBQT
+[2025-05-30 16:32:56] Processing: MOL_0087
+[2025-05-30 16:32:56] Success: MOL_0087 converted to PDBQT
+[2025-05-30 16:32:56] Processing: MOL_0088
+[2025-05-30 16:32:56] Success: MOL_0088 converted to PDBQT
+[2025-05-30 16:32:56] Processing: MOL_0089
+[2025-05-30 16:32:56] Success: MOL_0089 converted to PDBQT
+[2025-05-30 16:32:56] Processing: MOL_0090
+[2025-05-30 16:32:57] Success: MOL_0090 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0091
+[2025-05-30 16:32:57] Success: MOL_0091 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0092
+[2025-05-30 16:32:57] Success: MOL_0092 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0093
+[2025-05-30 16:32:57] Success: MOL_0093 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0094
+[2025-05-30 16:32:57] Success: MOL_0094 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0095
+[2025-05-30 16:32:57] Success: MOL_0095 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0096
+[2025-05-30 16:32:57] Success: MOL_0096 converted to PDBQT
+[2025-05-30 16:32:57] Processing: MOL_0097
+[2025-05-30 16:32:58] Success: MOL_0097 converted to PDBQT
+[2025-05-30 16:32:58] Processing: MOL_0098
+[2025-05-30 16:32:58] Success: MOL_0098 converted to PDBQT
+[2025-05-30 16:32:58] Processing: MOL_0099
+[2025-05-30 16:32:58] Success: MOL_0099 converted to PDBQT
+[2025-05-30 16:32:58] Processing: MOL_0100
+[2025-05-30 16:32:58] Success: MOL_0100 converted to PDBQT
+[2025-05-30 16:32:58] Processing: MOL_0101
+[2025-05-30 16:32:58] Success: MOL_0101 converted to PDBQT
+[2025-05-30 16:32:58] Processing: MOL_0102
+[2025-05-30 16:32:58] Success: MOL_0102 converted to PDBQT
+[2025-05-30 16:32:58] Processing: MOL_0103
+[2025-05-30 16:32:59] Success: MOL_0103 converted to PDBQT
+[2025-05-30 16:32:59] Processing: MOL_0104
+[2025-05-30 16:32:59] Success: MOL_0104 converted to PDBQT
+[2025-05-30 16:32:59] Processing: MOL_0105
+[2025-05-30 16:32:59] Success: MOL_0105 converted to PDBQT
+[2025-05-30 16:32:59] Processing: MOL_0106
+[2025-05-30 16:32:59] Success: MOL_0106 converted to PDBQT
+[2025-05-30 16:32:59] Processing: MOL_0107
+[2025-05-30 16:32:59] Success: MOL_0107 converted to PDBQT
+[2025-05-30 16:32:59] Processing: MOL_0108
+[2025-05-30 16:32:59] Success: MOL_0108 converted to PDBQT
+[2025-05-30 16:32:59] Processing: MOL_0109
+[2025-05-30 16:33:00] Success: MOL_0109 converted to PDBQT
+[2025-05-30 16:33:00] Processing: MOL_0110
+[2025-05-30 16:33:00] Success: MOL_0110 converted to PDBQT
+[2025-05-30 16:33:00] Processing: MOL_0111
+[2025-05-30 16:33:00] Success: MOL_0111 converted to PDBQT
+[2025-05-30 16:33:00] Processing: MOL_0112
+[2025-05-30 16:33:00] Success: MOL_0112 converted to PDBQT
+[2025-05-30 16:33:00] Processing: MOL_0113
+[2025-05-30 16:33:00] Success: MOL_0113 converted to PDBQT
+[2025-05-30 16:33:00] Processing: MOL_0114
+[2025-05-30 16:33:00] Success: MOL_0114 converted to PDBQT
+[2025-05-30 16:33:00] Processing: MOL_0115
+[2025-05-30 16:33:01] Success: MOL_0115 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0116
+[2025-05-30 16:33:01] Success: MOL_0116 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0117
+[2025-05-30 16:33:01] Success: MOL_0117 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0118
+[2025-05-30 16:33:01] Success: MOL_0118 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0119
+[2025-05-30 16:33:01] Success: MOL_0119 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0120
+[2025-05-30 16:33:01] Success: MOL_0120 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0121
+[2025-05-30 16:33:01] Success: MOL_0121 converted to PDBQT
+[2025-05-30 16:33:01] Processing: MOL_0122
+[2025-05-30 16:33:02] Success: MOL_0122 converted to PDBQT
+[2025-05-30 16:33:02] Processing: MOL_0123
+[2025-05-30 16:33:02] Success: MOL_0123 converted to PDBQT
+[2025-05-30 16:33:02] Processing: MOL_0124
+[2025-05-30 16:33:02] Success: MOL_0124 converted to PDBQT
+[2025-05-30 16:33:02] Processing: MOL_0125
+[2025-05-30 16:33:02] Success: MOL_0125 converted to PDBQT
+[2025-05-30 16:33:02] Processing: MOL_0126
+[2025-05-30 16:33:02] Success: MOL_0126 converted to PDBQT
+[2025-05-30 16:33:02] Processing: MOL_0127
+[2025-05-30 16:33:02] Success: MOL_0127 converted to PDBQT
+[2025-05-30 16:33:02] Processing: MOL_0128
+[2025-05-30 16:33:03] Success: MOL_0128 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0129
+[2025-05-30 16:33:03] Success: MOL_0129 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0130
+[2025-05-30 16:33:03] Success: MOL_0130 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0131
+[2025-05-30 16:33:03] Success: MOL_0131 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0132
+[2025-05-30 16:33:03] Success: MOL_0132 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0133
+[2025-05-30 16:33:03] Success: MOL_0133 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0134
+[2025-05-30 16:33:03] Success: MOL_0134 converted to PDBQT
+[2025-05-30 16:33:03] Processing: MOL_0135
+[2025-05-30 16:33:04] Success: MOL_0135 converted to PDBQT
+[2025-05-30 16:33:04] Processing: MOL_0136
+[2025-05-30 16:33:04] Success: MOL_0136 converted to PDBQT
+[2025-05-30 16:33:04] Processing: MOL_0137
+[2025-05-30 16:33:04] Success: MOL_0137 converted to PDBQT
+[2025-05-30 16:33:04] Processing: MOL_0138
+[2025-05-30 16:33:04] Success: MOL_0138 converted to PDBQT
+[2025-05-30 16:33:04] Processing: MOL_0139
+[2025-05-30 16:33:04] Success: MOL_0139 converted to PDBQT
+[2025-05-30 16:33:04] Processing: MOL_0140
+[2025-05-30 16:33:04] Success: MOL_0140 converted to PDBQT
+[2025-05-30 16:33:04] Processing: MOL_0141
+[2025-05-30 16:33:05] Success: MOL_0141 converted to PDBQT
+[2025-05-30 16:33:05] Processing: MOL_0142
+[2025-05-30 16:33:05] Success: MOL_0142 converted to PDBQT
+[2025-05-30 16:33:05] Processing: MOL_0143
+[2025-05-30 16:33:05] Success: MOL_0143 converted to PDBQT
+[2025-05-30 16:33:05] Processing: MOL_0144
+[2025-05-30 16:33:05] Success: MOL_0144 converted to PDBQT
+[2025-05-30 16:33:05] Processing: MOL_0145
+[2025-05-30 16:33:05] Success: MOL_0145 converted to PDBQT
+[2025-05-30 16:33:05] Processing: MOL_0146
+[2025-05-30 16:33:05] Success: MOL_0146 converted to PDBQT
+[2025-05-30 16:33:05] Processing: MOL_0147
+[2025-05-30 16:33:06] Success: MOL_0147 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0148
+[2025-05-30 16:33:06] Success: MOL_0148 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0149
+[2025-05-30 16:33:06] Success: MOL_0149 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0150
+[2025-05-30 16:33:06] Success: MOL_0150 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0151
+[2025-05-30 16:33:06] Success: MOL_0151 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0152
+[2025-05-30 16:33:06] Success: MOL_0152 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0153
+[2025-05-30 16:33:06] Success: MOL_0153 converted to PDBQT
+[2025-05-30 16:33:06] Processing: MOL_0154
+[2025-05-30 16:33:07] Success: MOL_0154 converted to PDBQT
+[2025-05-30 16:33:07] Processing: MOL_0155
+[2025-05-30 16:33:07] Success: MOL_0155 converted to PDBQT
+[2025-05-30 16:33:07] Processing: MOL_0156
+[2025-05-30 16:33:07] Success: MOL_0156 converted to PDBQT
+[2025-05-30 16:33:07] Processing: MOL_0157
+[2025-05-30 16:33:07] Success: MOL_0157 converted to PDBQT
+[2025-05-30 16:33:07] Processing: MOL_0158
+[2025-05-30 16:33:07] Success: MOL_0158 converted to PDBQT
+[2025-05-30 16:33:07] Processing: MOL_0159
+[2025-05-30 16:33:07] Success: MOL_0159 converted to PDBQT
+[2025-05-30 16:33:07] Processing: MOL_0160
+[2025-05-30 16:33:08] Success: MOL_0160 converted to PDBQT
+[2025-05-30 16:33:08] Processing: MOL_0161
+[2025-05-30 16:33:08] Success: MOL_0161 converted to PDBQT
+[2025-05-30 16:33:08] Processing: MOL_0162
+[2025-05-30 16:33:08] Success: MOL_0162 converted to PDBQT
+[2025-05-30 16:33:08] Processing: MOL_0163
+[2025-05-30 16:33:08] Success: MOL_0163 converted to PDBQT
+[2025-05-30 16:33:08] Processing: MOL_0164
+[2025-05-30 16:33:08] Success: MOL_0164 converted to PDBQT
+[2025-05-30 16:33:08] Processing: MOL_0165
+[2025-05-30 16:33:08] Success: MOL_0165 converted to PDBQT
+[2025-05-30 16:33:08] Processing: MOL_0166
+[2025-05-30 16:33:09] Success: MOL_0166 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0167
+[2025-05-30 16:33:09] Success: MOL_0167 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0168
+[2025-05-30 16:33:09] Success: MOL_0168 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0169
+[2025-05-30 16:33:09] Success: MOL_0169 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0170
+[2025-05-30 16:33:09] Success: MOL_0170 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0171
+[2025-05-30 16:33:09] Success: MOL_0171 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0172
+[2025-05-30 16:33:09] Success: MOL_0172 converted to PDBQT
+[2025-05-30 16:33:09] Processing: MOL_0173
+[2025-05-30 16:33:10] Success: MOL_0173 converted to PDBQT
+[2025-05-30 16:33:10] Processing: MOL_0174
+[2025-05-30 16:33:10] Success: MOL_0174 converted to PDBQT
+[2025-05-30 16:33:10] Processing: MOL_0175
+[2025-05-30 16:33:10] Success: MOL_0175 converted to PDBQT
+[2025-05-30 16:33:10] Processing: MOL_0176
+[2025-05-30 16:33:10] Success: MOL_0176 converted to PDBQT
+[2025-05-30 16:33:10] Processing: MOL_0177
+[2025-05-30 16:33:10] Success: MOL_0177 converted to PDBQT
+[2025-05-30 16:33:10] Processing: MOL_0178
+[2025-05-30 16:33:10] Success: MOL_0178 converted to PDBQT
+[2025-05-30 16:33:10] Processing: MOL_0179
+[2025-05-30 16:33:11] Success: MOL_0179 converted to PDBQT
+[2025-05-30 16:33:11] Processing: MOL_0180
+[2025-05-30 16:33:11] Success: MOL_0180 converted to PDBQT
+[2025-05-30 16:33:11] Processing: MOL_0181
+[2025-05-30 16:33:11] Success: MOL_0181 converted to PDBQT
+[2025-05-30 16:33:11] Processing: MOL_0182
+[2025-05-30 16:33:11] Success: MOL_0182 converted to PDBQT
+[2025-05-30 16:33:11] Processing: MOL_0183
+[2025-05-30 16:33:11] Success: MOL_0183 converted to PDBQT
+[2025-05-30 16:33:11] Processing: MOL_0184
+[2025-05-30 16:33:11] Success: MOL_0184 converted to PDBQT
+[2025-05-30 16:33:11] Processing: MOL_0185
+[2025-05-30 16:33:12] Success: MOL_0185 converted to PDBQT
+[2025-05-30 16:33:12] Processing: MOL_0186
+[2025-05-30 16:33:12] Success: MOL_0186 converted to PDBQT
+[2025-05-30 16:33:12] Processing: MOL_0187
+[2025-05-30 16:33:12] Success: MOL_0187 converted to PDBQT
+[2025-05-30 16:33:12] Processing: MOL_0188
+[2025-05-30 16:33:12] Success: MOL_0188 converted to PDBQT
+[2025-05-30 16:33:12] Processing: MOL_0189
+[2025-05-30 16:33:12] Success: MOL_0189 converted to PDBQT
+[2025-05-30 16:33:12] Processing: MOL_0190
+[2025-05-30 16:33:12] Success: MOL_0190 converted to PDBQT
+[2025-05-30 16:33:12] Processing: MOL_0191
+[2025-05-30 16:33:13] Success: MOL_0191 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0192
+[2025-05-30 16:33:13] Success: MOL_0192 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0193
+[2025-05-30 16:33:13] Success: MOL_0193 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0194
+[2025-05-30 16:33:13] Success: MOL_0194 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0195
+[2025-05-30 16:33:13] Success: MOL_0195 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0196
+[2025-05-30 16:33:13] Success: MOL_0196 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0197
+[2025-05-30 16:33:13] Success: MOL_0197 converted to PDBQT
+[2025-05-30 16:33:13] Processing: MOL_0198
+[2025-05-30 16:33:14] Success: MOL_0198 converted to PDBQT
+[2025-05-30 16:33:14] Processing: MOL_0199
+[2025-05-30 16:33:14] Success: MOL_0199 converted to PDBQT
+[2025-05-30 16:33:14] Processing: MOL_0200
+[2025-05-30 16:33:14] Success: MOL_0200 converted to PDBQT
+[2025-05-30 16:33:14] Processing: MOL_0201
+[2025-05-30 16:33:14] Success: MOL_0201 converted to PDBQT
+[2025-05-30 16:33:14] Processing: MOL_0202
+[2025-05-30 16:33:14] Success: MOL_0202 converted to PDBQT
+[2025-05-30 16:33:14] Processing: MOL_0203
+[2025-05-30 16:33:14] Success: MOL_0203 converted to PDBQT
+[2025-05-30 16:33:14] Processing: MOL_0204
+[2025-05-30 16:33:15] Success: MOL_0204 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0205
+[2025-05-30 16:33:15] Success: MOL_0205 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0206
+[2025-05-30 16:33:15] Success: MOL_0206 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0207
+[2025-05-30 16:33:15] Success: MOL_0207 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0208
+[2025-05-30 16:33:15] Success: MOL_0208 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0209
+[2025-05-30 16:33:15] Success: MOL_0209 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0210
+[2025-05-30 16:33:15] Success: MOL_0210 converted to PDBQT
+[2025-05-30 16:33:15] Processing: MOL_0211
+[2025-05-30 16:33:16] Success: MOL_0211 converted to PDBQT
+[2025-05-30 16:33:16] Processing: MOL_0212
+[2025-05-30 16:33:16] Success: MOL_0212 converted to PDBQT
+[2025-05-30 16:33:16] Processing: MOL_0213
+[2025-05-30 16:33:16] Success: MOL_0213 converted to PDBQT
+[2025-05-30 16:33:16] Processing: MOL_0214
+[2025-05-30 16:33:16] Success: MOL_0214 converted to PDBQT
+[2025-05-30 16:33:16] Processing: MOL_0215
+[2025-05-30 16:33:16] Success: MOL_0215 converted to PDBQT
+[2025-05-30 16:33:16] Processing: MOL_0216
+[2025-05-30 16:33:16] Success: MOL_0216 converted to PDBQT
+[2025-05-30 16:33:16] Processing: MOL_0217
+[2025-05-30 16:33:17] Success: MOL_0217 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0218
+[2025-05-30 16:33:17] Success: MOL_0218 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0219
+[2025-05-30 16:33:17] Success: MOL_0219 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0220
+[2025-05-30 16:33:17] Success: MOL_0220 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0221
+[2025-05-30 16:33:17] Success: MOL_0221 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0222
+[2025-05-30 16:33:17] Success: MOL_0222 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0223
+[2025-05-30 16:33:17] Success: MOL_0223 converted to PDBQT
+[2025-05-30 16:33:17] Processing: MOL_0224
+[2025-05-30 16:33:18] Success: MOL_0224 converted to PDBQT
+[2025-05-30 16:33:18] Processing: MOL_0225
+[2025-05-30 16:33:18] Success: MOL_0225 converted to PDBQT
+[2025-05-30 16:33:18] Processing: MOL_0226
+[2025-05-30 16:33:18] Success: MOL_0226 converted to PDBQT
+[2025-05-30 16:33:18] Processing: MOL_0227
+[2025-05-30 16:33:18] Success: MOL_0227 converted to PDBQT
+[2025-05-30 16:33:18] Processing: MOL_0228
+[2025-05-30 16:33:18] Success: MOL_0228 converted to PDBQT
+[2025-05-30 16:33:18] Processing: MOL_0229
+[2025-05-30 16:33:18] Success: MOL_0229 converted to PDBQT
+[2025-05-30 16:33:18] Processing: MOL_0230
+[2025-05-30 16:33:19] Success: MOL_0230 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0231
+[2025-05-30 16:33:19] Success: MOL_0231 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0233
+[2025-05-30 16:33:19] Success: MOL_0233 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0234
+[2025-05-30 16:33:19] Success: MOL_0234 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0235
+[2025-05-30 16:33:19] Success: MOL_0235 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0236
+[2025-05-30 16:33:19] Success: MOL_0236 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0237
+[2025-05-30 16:33:19] Success: MOL_0237 converted to PDBQT
+[2025-05-30 16:33:19] Processing: MOL_0238
+[2025-05-30 16:33:20] Success: MOL_0238 converted to PDBQT
+[2025-05-30 16:33:20] Processing: MOL_0239
+[2025-05-30 16:33:20] Success: MOL_0239 converted to PDBQT
+[2025-05-30 16:33:20] Processing: MOL_0240
+[2025-05-30 16:33:20] Success: MOL_0240 converted to PDBQT
+[2025-05-30 16:33:20] Processing: MOL_0241
+[2025-05-30 16:33:20] Success: MOL_0241 converted to PDBQT
+[2025-05-30 16:33:20] Processing: MOL_0242
+[2025-05-30 16:33:20] Success: MOL_0242 converted to PDBQT
+[2025-05-30 16:33:20] Processing: MOL_0243
+[2025-05-30 16:33:20] Success: MOL_0243 converted to PDBQT
+[2025-05-30 16:33:20] Processing: MOL_0245
+[2025-05-30 16:33:21] Success: MOL_0245 converted to PDBQT
+[2025-05-30 16:33:21] Processing: MOL_0246
+[2025-05-30 16:33:21] Success: MOL_0246 converted to PDBQT
+[2025-05-30 16:33:21] Processing: MOL_0247
+[2025-05-30 16:33:21] Success: MOL_0247 converted to PDBQT
+[2025-05-30 16:33:21] Processing: MOL_0248
+[2025-05-30 16:33:21] Success: MOL_0248 converted to PDBQT
+[2025-05-30 16:33:21] Processing: MOL_0249
+[2025-05-30 16:33:21] Success: MOL_0249 converted to PDBQT
+[2025-05-30 16:33:21] Processing: MOL_0250
+[2025-05-30 16:33:21] Success: MOL_0250 converted to PDBQT
+[2025-05-30 16:33:21] Processing: MOL_0251
+[2025-05-30 16:33:22] Success: MOL_0251 converted to PDBQT
+[2025-05-30 16:33:22] Processing: MOL_0252
+[2025-05-30 16:33:22] Success: MOL_0252 converted to PDBQT
+[2025-05-30 16:33:22] Processing: MOL_0254
+[2025-05-30 16:33:22] Success: MOL_0254 converted to PDBQT
+[2025-05-30 16:33:22] Processing: MOL_0255
+[2025-05-30 16:33:22] Success: MOL_0255 converted to PDBQT
+[2025-05-30 16:33:22] Processing: MOL_0256
+[2025-05-30 16:33:22] Success: MOL_0256 converted to PDBQT
+[2025-05-30 16:33:22] Processing: MOL_0257
+[2025-05-30 16:33:22] Success: MOL_0257 converted to PDBQT
+[2025-05-30 16:33:22] Processing: MOL_0258
+[2025-05-30 16:33:23] Success: MOL_0258 converted to PDBQT
+[2025-05-30 16:33:23] Processing: MOL_0259
+[2025-05-30 16:33:23] Success: MOL_0259 converted to PDBQT
+[2025-05-30 16:33:23] Processing: MOL_0260
+[2025-05-30 16:33:23] Success: MOL_0260 converted to PDBQT
+[2025-05-30 16:33:23] Processing: MOL_0261
+[2025-05-30 16:33:23] Success: MOL_0261 converted to PDBQT
+[2025-05-30 16:33:23] Processing: MOL_0263
+[2025-05-30 16:33:23] Success: MOL_0263 converted to PDBQT
+[2025-05-30 16:33:23] Processing: MOL_0264
+[2025-05-30 16:33:23] Success: MOL_0264 converted to PDBQT
+[2025-05-30 16:33:23] Processing: MOL_0266
+[2025-05-30 16:33:24] Success: MOL_0266 converted to PDBQT
+[2025-05-30 16:33:24] Processing: MOL_0267
+[2025-05-30 16:33:24] Success: MOL_0267 converted to PDBQT
+[2025-05-30 16:33:24] Processing: MOL_0268
+[2025-05-30 16:33:24] Success: MOL_0268 converted to PDBQT
+[2025-05-30 16:33:24] Processing: MOL_0269
+[2025-05-30 16:33:24] Success: MOL_0269 converted to PDBQT
+[2025-05-30 16:33:24] Processing: MOL_0270
+[2025-05-30 16:33:24] Success: MOL_0270 converted to PDBQT
+[2025-05-30 16:33:24] Processing: MOL_0271
+[2025-05-30 16:33:24] Success: MOL_0271 converted to PDBQT
+[2025-05-30 16:33:24] Processing: MOL_0272
+[2025-05-30 16:33:25] Success: MOL_0272 converted to PDBQT
+[2025-05-30 16:33:25] Processing: MOL_0273
+[2025-05-30 16:33:25] Success: MOL_0273 converted to PDBQT
+[2025-05-30 16:33:25] Processing: MOL_0274
+[2025-05-30 16:33:25] Success: MOL_0274 converted to PDBQT
+[2025-05-30 16:33:25] Processing: MOL_0275
+[2025-05-30 16:33:25] Success: MOL_0275 converted to PDBQT
+[2025-05-30 16:33:25] Processing: MOL_0277
+[2025-05-30 16:33:25] Success: MOL_0277 converted to PDBQT
+[2025-05-30 16:33:25] Processing: MOL_0278
+[2025-05-30 16:33:25] Success: MOL_0278 converted to PDBQT
+[2025-05-30 16:33:25] Processing: MOL_0279
+[2025-05-30 16:33:26] Success: MOL_0279 converted to PDBQT
+[2025-05-30 16:33:26] Processing: MOL_0280
+[2025-05-30 16:33:26] Success: MOL_0280 converted to PDBQT
+[2025-05-30 16:33:26] Processing: MOL_0281
+[2025-05-30 16:33:26] Success: MOL_0281 converted to PDBQT
+[2025-05-30 16:33:26] Processing: MOL_0282
+[2025-05-30 16:33:26] Success: MOL_0282 converted to PDBQT
+[2025-05-30 16:33:26] Processing: MOL_0283
+[2025-05-30 16:33:26] Success: MOL_0283 converted to PDBQT
+[2025-05-30 16:33:26] Processing: MOL_0284
+[2025-05-30 16:33:27] Success: MOL_0284 converted to PDBQT
+[2025-05-30 16:33:27] Processing: MOL_0285
+[2025-05-30 16:33:27] Success: MOL_0285 converted to PDBQT
+[2025-05-30 16:33:27] Processing: MOL_0286
+[2025-05-30 16:33:27] Success: MOL_0286 converted to PDBQT
+[2025-05-30 16:33:27] Processing: MOL_0287
+[2025-05-30 16:33:27] Success: MOL_0287 converted to PDBQT
+[2025-05-30 16:33:27] Processing: MOL_0288
+[2025-05-30 16:33:27] Success: MOL_0288 converted to PDBQT
+[2025-05-30 16:33:27] Processing: MOL_0289
+[2025-05-30 16:33:27] Success: MOL_0289 converted to PDBQT
+[2025-05-30 16:33:27] Processing: MOL_0292
+[2025-05-30 16:33:28] Success: MOL_0292 converted to PDBQT
+[2025-05-30 16:33:28] Processing: MOL_0293
+[2025-05-30 16:33:28] Success: MOL_0293 converted to PDBQT
+[2025-05-30 16:33:28] Processing: MOL_0294
+[2025-05-30 16:33:28] Success: MOL_0294 converted to PDBQT
+[2025-05-30 16:33:28] Processing: MOL_0295
+[2025-05-30 16:33:28] Success: MOL_0295 converted to PDBQT
+[2025-05-30 16:33:28] Processing: MOL_0296
+[2025-05-30 16:33:28] Success: MOL_0296 converted to PDBQT
+[2025-05-30 16:33:28] Processing: MOL_0297
+[2025-05-30 16:33:28] Success: MOL_0297 converted to PDBQT
+[2025-05-30 16:33:28] Processing: MOL_0298
+[2025-05-30 16:33:29] Success: MOL_0298 converted to PDBQT
+[2025-05-30 16:33:29] Processing: MOL_0299
+[2025-05-30 16:33:29] Success: MOL_0299 converted to PDBQT
+[2025-05-30 16:33:29] Processing: MOL_0300
+[2025-05-30 16:33:29] Success: MOL_0300 converted to PDBQT
+[2025-05-30 16:33:29] Processing: MOL_0301
+[2025-05-30 16:33:29] Success: MOL_0301 converted to PDBQT
+[2025-05-30 16:33:29] Processing: MOL_0302
+[2025-05-30 16:33:29] Success: MOL_0302 converted to PDBQT
+[2025-05-30 16:33:29] Processing: MOL_0303
+[2025-05-30 16:33:29] Success: MOL_0303 converted to PDBQT
+[2025-05-30 16:33:29] Processing: MOL_0304
+[2025-05-30 16:33:30] Success: MOL_0304 converted to PDBQT
+[2025-05-30 16:33:30] Processing: MOL_0305
+[2025-05-30 16:33:30] Success: MOL_0305 converted to PDBQT
+[2025-05-30 16:33:30] Processing: MOL_0306
+[2025-05-30 16:33:30] Success: MOL_0306 converted to PDBQT
+[2025-05-30 16:33:30] Processing: MOL_0307
+[2025-05-30 16:33:30] Success: MOL_0307 converted to PDBQT
+[2025-05-30 16:33:30] Processing: MOL_0308
+[2025-05-30 16:33:30] Success: MOL_0308 converted to PDBQT
+[2025-05-30 16:33:30] Processing: MOL_0309
+[2025-05-30 16:33:30] Success: MOL_0309 converted to PDBQT
+[2025-05-30 16:33:30] Processing: MOL_0310
+[2025-05-30 16:33:31] Success: MOL_0310 converted to PDBQT
+[2025-05-30 16:33:31] Processing: MOL_0311
+[2025-05-30 16:33:31] Success: MOL_0311 converted to PDBQT
+[2025-05-30 16:33:31] Processing: MOL_0312
+[2025-05-30 16:33:31] Success: MOL_0312 converted to PDBQT
+[2025-05-30 16:33:31] Processing: MOL_0314
+[2025-05-30 16:33:31] Success: MOL_0314 converted to PDBQT
+[2025-05-30 16:33:31] Processing: MOL_0315
+[2025-05-30 16:33:31] Success: MOL_0315 converted to PDBQT
+[2025-05-30 16:33:31] Processing: MOL_0316
+[2025-05-30 16:33:31] Success: MOL_0316 converted to PDBQT
+[2025-05-30 16:33:31] Processing: MOL_0317
+[2025-05-30 16:33:32] Success: MOL_0317 converted to PDBQT
+[2025-05-30 16:33:32] Processing: MOL_0318
+[2025-05-30 16:33:32] Success: MOL_0318 converted to PDBQT
+[2025-05-30 16:33:32] Processing: MOL_0320
+[2025-05-30 16:33:32] Success: MOL_0320 converted to PDBQT
+[2025-05-30 16:33:32] Processing: MOL_0321
+[2025-05-30 16:33:32] Success: MOL_0321 converted to PDBQT
+[2025-05-30 16:33:32] Processing: MOL_0322
+[2025-05-30 16:33:32] Success: MOL_0322 converted to PDBQT
+[2025-05-30 16:33:32] Processing: MOL_0323
+[2025-05-30 16:33:32] Success: MOL_0323 converted to PDBQT
+[2025-05-30 16:33:32] Processing: MOL_0324
+[2025-05-30 16:33:33] Success: MOL_0324 converted to PDBQT
+[2025-05-30 16:33:33] Processing: MOL_0325
+[2025-05-30 16:33:33] Success: MOL_0325 converted to PDBQT
+[2025-05-30 16:33:33] Processing: MOL_0326
+[2025-05-30 16:33:33] Success: MOL_0326 converted to PDBQT
+[2025-05-30 16:33:33] Processing: MOL_0327
+[2025-05-30 16:33:33] Success: MOL_0327 converted to PDBQT
+[2025-05-30 16:33:33] Processing: MOL_0329
+[2025-05-30 16:33:33] Success: MOL_0329 converted to PDBQT
+[2025-05-30 16:33:33] Processing: MOL_0330
+[2025-05-30 16:33:33] Success: MOL_0330 converted to PDBQT
+[2025-05-30 16:33:33] Processing: MOL_0331
+[2025-05-30 16:33:34] Success: MOL_0331 converted to PDBQT
+[2025-05-30 16:33:34] Processing: MOL_0332
+[2025-05-30 16:33:34] Success: MOL_0332 converted to PDBQT
+[2025-05-30 16:33:34] Processing: MOL_0333
+[2025-05-30 16:33:34] Success: MOL_0333 converted to PDBQT
+[2025-05-30 16:33:34] Processing: MOL_0334
+[2025-05-30 16:33:34] Success: MOL_0334 converted to PDBQT
+[2025-05-30 16:33:34] Processing: MOL_0335
+[2025-05-30 16:33:34] Success: MOL_0335 converted to PDBQT
+[2025-05-30 16:33:34] Processing: MOL_0336
+[2025-05-30 16:33:34] Success: MOL_0336 converted to PDBQT
+[2025-05-30 16:33:34] Processing: MOL_0337
+[2025-05-30 16:33:35] Success: MOL_0337 converted to PDBQT
+[2025-05-30 16:33:35] Processing: MOL_0338
+[2025-05-30 16:33:35] Success: MOL_0338 converted to PDBQT
+[2025-05-30 16:33:35] Processing: MOL_0339
+[2025-05-30 16:33:35] Success: MOL_0339 converted to PDBQT
+[2025-05-30 16:33:35] Processing: MOL_0340
+[2025-05-30 16:33:35] Success: MOL_0340 converted to PDBQT
+[2025-05-30 16:33:35] Processing: MOL_0341
+[2025-05-30 16:33:35] Success: MOL_0341 converted to PDBQT
+[2025-05-30 16:33:35] Processing: MOL_0342
+[2025-05-30 16:33:35] Success: MOL_0342 converted to PDBQT
+[2025-05-30 16:33:35] Processing: MOL_0343
+[2025-05-30 16:33:36] Success: MOL_0343 converted to PDBQT
+[2025-05-30 16:33:36] Processing: MOL_0344
+[2025-05-30 16:33:36] Success: MOL_0344 converted to PDBQT
+[2025-05-30 16:33:36] Processing: MOL_0346
+[2025-05-30 16:33:36] Success: MOL_0346 converted to PDBQT
+[2025-05-30 16:33:36] Processing: MOL_0347
+[2025-05-30 16:33:36] Success: MOL_0347 converted to PDBQT
+[2025-05-30 16:33:36] Processing: MOL_0348
+[2025-05-30 16:33:36] Success: MOL_0348 converted to PDBQT
+[2025-05-30 16:33:36] Processing: MOL_0349
+[2025-05-30 16:33:36] Success: MOL_0349 converted to PDBQT
+[2025-05-30 16:33:36] Processing: MOL_0350
+[2025-05-30 16:33:37] Success: MOL_0350 converted to PDBQT
+[2025-05-30 16:33:37] Processing: MOL_0351
+[2025-05-30 16:33:37] Success: MOL_0351 converted to PDBQT
+[2025-05-30 16:33:37] Processing: MOL_0352
+[2025-05-30 16:33:37] Success: MOL_0352 converted to PDBQT
+[2025-05-30 16:33:37] Processing: MOL_0353
+[2025-05-30 16:33:37] Success: MOL_0353 converted to PDBQT
+[2025-05-30 16:33:37] Processing: MOL_0356
+[2025-05-30 16:33:37] Success: MOL_0356 converted to PDBQT
+[2025-05-30 16:33:37] Processing: MOL_0357
+[2025-05-30 16:33:37] Success: MOL_0357 converted to PDBQT
+[2025-05-30 16:33:37] Processing: MOL_0358
+[2025-05-30 16:33:38] Success: MOL_0358 converted to PDBQT
+[2025-05-30 16:33:38] Processing: MOL_0359
+[2025-05-30 16:33:38] Success: MOL_0359 converted to PDBQT
+[2025-05-30 16:33:38] Processing: MOL_0360
+[2025-05-30 16:33:38] Success: MOL_0360 converted to PDBQT
+[2025-05-30 16:33:38] Processing: MOL_0361
+[2025-05-30 16:33:38] Success: MOL_0361 converted to PDBQT
+[2025-05-30 16:33:38] Processing: MOL_0362
+[2025-05-30 16:33:38] Success: MOL_0362 converted to PDBQT
+[2025-05-30 16:33:38] Processing: MOL_0363
+[2025-05-30 16:33:38] Success: MOL_0363 converted to PDBQT
+[2025-05-30 16:33:38] Processing: MOL_0364
+[2025-05-30 16:33:39] Success: MOL_0364 converted to PDBQT
+[2025-05-30 16:33:39] Processing: MOL_0366
+[2025-05-30 16:33:39] Success: MOL_0366 converted to PDBQT
+[2025-05-30 16:33:39] Processing: MOL_0367
+[2025-05-30 16:33:39] Success: MOL_0367 converted to PDBQT
+[2025-05-30 16:33:39] Processing: MOL_0369
+[2025-05-30 16:33:39] Success: MOL_0369 converted to PDBQT
+[2025-05-30 16:33:39] Processing: MOL_0370
+[2025-05-30 16:33:39] Success: MOL_0370 converted to PDBQT
+[2025-05-30 16:33:39] Processing: MOL_0371
+[2025-05-30 16:33:39] Success: MOL_0371 converted to PDBQT
+[2025-05-30 16:33:39] Processing: MOL_0372
+[2025-05-30 16:33:40] Success: MOL_0372 converted to PDBQT
+[2025-05-30 16:33:40] Processing: MOL_0373
+[2025-05-30 16:33:40] Success: MOL_0373 converted to PDBQT
+[2025-05-30 16:33:40] Processing: MOL_0375
+[2025-05-30 16:33:40] Success: MOL_0375 converted to PDBQT
+[2025-05-30 16:33:40] Processing: MOL_0376
+[2025-05-30 16:33:40] Success: MOL_0376 converted to PDBQT
+[2025-05-30 16:33:40] Processing: MOL_0377
+[2025-05-30 16:33:40] Success: MOL_0377 converted to PDBQT
+[2025-05-30 16:33:40] Processing: MOL_0379
+[2025-05-30 16:33:40] Success: MOL_0379 converted to PDBQT
+[2025-05-30 16:33:40] Processing: MOL_0380
+[2025-05-30 16:33:41] Success: MOL_0380 converted to PDBQT
+[2025-05-30 16:33:41] Processing: MOL_0382
+[2025-05-30 16:33:41] Success: MOL_0382 converted to PDBQT
+[2025-05-30 16:33:41] Processing: MOL_0383
+[2025-05-30 16:33:41] Success: MOL_0383 converted to PDBQT
+[2025-05-30 16:33:41] Processing: MOL_0384
+[2025-05-30 16:33:41] Success: MOL_0384 converted to PDBQT
+[2025-05-30 16:33:41] Processing: MOL_0385
+[2025-05-30 16:33:41] Success: MOL_0385 converted to PDBQT
+[2025-05-30 16:33:41] Processing: MOL_0386
+[2025-05-30 16:33:42] Success: MOL_0386 converted to PDBQT
+[2025-05-30 16:33:42] Processing: MOL_0387
+[2025-05-30 16:33:42] Success: MOL_0387 converted to PDBQT
+[2025-05-30 16:33:42] Processing: MOL_0388
+[2025-05-30 16:33:42] Success: MOL_0388 converted to PDBQT
+[2025-05-30 16:33:42] Processing: MOL_0389
+[2025-05-30 16:33:42] Success: MOL_0389 converted to PDBQT
+[2025-05-30 16:33:42] Processing: MOL_0390
+[2025-05-30 16:33:42] Success: MOL_0390 converted to PDBQT
+[2025-05-30 16:33:42] Processing: MOL_0391
+[2025-05-30 16:33:42] Success: MOL_0391 converted to PDBQT
+[2025-05-30 16:33:42] Processing: MOL_0392
+[2025-05-30 16:33:43] Success: MOL_0392 converted to PDBQT
+[2025-05-30 16:33:43] Processing: MOL_0393
+[2025-05-30 16:33:43] Success: MOL_0393 converted to PDBQT
+[2025-05-30 16:33:43] Processing: MOL_0394
+[2025-05-30 16:33:43] Success: MOL_0394 converted to PDBQT
+[2025-05-30 16:33:43] Processing: MOL_0395
+[2025-05-30 16:33:43] Success: MOL_0395 converted to PDBQT
+[2025-05-30 16:33:43] Processing: MOL_0396
+[2025-05-30 16:33:43] Success: MOL_0396 converted to PDBQT
+[2025-05-30 16:33:43] Processing: MOL_0397
+[2025-05-30 16:33:43] Success: MOL_0397 converted to PDBQT
+[2025-05-30 16:33:43] Processing: MOL_0398
+[2025-05-30 16:33:44] Success: MOL_0398 converted to PDBQT
+[2025-05-30 16:33:44] Processing: MOL_0399
+[2025-05-30 16:33:44] Success: MOL_0399 converted to PDBQT
+[2025-05-30 16:33:44] Processing: MOL_0400
+[2025-05-30 16:33:44] Success: MOL_0400 converted to PDBQT
+[2025-05-30 16:33:44] Processing: MOL_0401
+[2025-05-30 16:33:44] Success: MOL_0401 converted to PDBQT
+[2025-05-30 16:33:44] Processing: MOL_0402
+[2025-05-30 16:33:44] Success: MOL_0402 converted to PDBQT
+[2025-05-30 16:33:44] Processing: MOL_0403
+[2025-05-30 16:33:44] Success: MOL_0403 converted to PDBQT
+[2025-05-30 16:33:44] Processing: MOL_0404
+[2025-05-30 16:33:45] Success: MOL_0404 converted to PDBQT
+[2025-05-30 16:33:45] Processing: MOL_0405
+[2025-05-30 16:33:45] Success: MOL_0405 converted to PDBQT
+[2025-05-30 16:33:45] Processing: MOL_0406
+[2025-05-30 16:33:45] Success: MOL_0406 converted to PDBQT
+[2025-05-30 16:33:45] Processing: MOL_0407
+[2025-05-30 16:33:45] Success: MOL_0407 converted to PDBQT
+[2025-05-30 16:33:45] Processing: MOL_0408
+[2025-05-30 16:33:45] Success: MOL_0408 converted to PDBQT
+[2025-05-30 16:33:45] Processing: MOL_0409
+[2025-05-30 16:33:45] Success: MOL_0409 converted to PDBQT
+[2025-05-30 16:33:45] Processing: MOL_0410
+[2025-05-30 16:33:46] Success: MOL_0410 converted to PDBQT
+[2025-05-30 16:33:46] Processing: MOL_0411
+[2025-05-30 16:33:46] Success: MOL_0411 converted to PDBQT
+[2025-05-30 16:33:46] Processing: MOL_0412
+[2025-05-30 16:33:46] Success: MOL_0412 converted to PDBQT
+[2025-05-30 16:33:46] Processing: MOL_0413
+[2025-05-30 16:33:46] Success: MOL_0413 converted to PDBQT
+[2025-05-30 16:33:46] Processing: MOL_0414
+[2025-05-30 16:33:46] Success: MOL_0414 converted to PDBQT
+[2025-05-30 16:33:46] Processing: MOL_0415
+[2025-05-30 16:33:46] Success: MOL_0415 converted to PDBQT
+[2025-05-30 16:33:46] Processing: MOL_0416
+[2025-05-30 16:33:47] Success: MOL_0416 converted to PDBQT
+[2025-05-30 16:33:47] Processing: MOL_0417
+[2025-05-30 16:33:47] Success: MOL_0417 converted to PDBQT
+[2025-05-30 16:33:47] Processing: MOL_0418
+[2025-05-30 16:33:47] Success: MOL_0418 converted to PDBQT
+[2025-05-30 16:33:47] Processing: MOL_0419
+[2025-05-30 16:33:47] Success: MOL_0419 converted to PDBQT
+[2025-05-30 16:33:47] Processing: MOL_0420
+[2025-05-30 16:33:47] Success: MOL_0420 converted to PDBQT
+[2025-05-30 16:33:47] Processing: MOL_0421
+[2025-05-30 16:33:48] Success: MOL_0421 converted to PDBQT
+[2025-05-30 16:33:48] Processing: MOL_0422
+[2025-05-30 16:33:48] Success: MOL_0422 converted to PDBQT
+[2025-05-30 16:33:48] Processing: MOL_0423
+[2025-05-30 16:33:48] Success: MOL_0423 converted to PDBQT
+[2025-05-30 16:33:48] Processing: MOL_0424
+[2025-05-30 16:33:48] Success: MOL_0424 converted to PDBQT
+[2025-05-30 16:33:48] Processing: MOL_0425
+[2025-05-30 16:33:48] Success: MOL_0425 converted to PDBQT
+[2025-05-30 16:33:48] Processing: MOL_0426
+[2025-05-30 16:33:48] Success: MOL_0426 converted to PDBQT
+[2025-05-30 16:33:48] Processing: MOL_0427
+[2025-05-30 16:33:49] Success: MOL_0427 converted to PDBQT
+[2025-05-30 16:33:49] Processing: MOL_0428
+[2025-05-30 16:33:49] Success: MOL_0428 converted to PDBQT
+[2025-05-30 16:33:49] Processing: MOL_0429
+[2025-05-30 16:33:49] Success: MOL_0429 converted to PDBQT
+[2025-05-30 16:33:49] Processing: MOL_0430
+[2025-05-30 16:33:49] Success: MOL_0430 converted to PDBQT
+[2025-05-30 16:33:49] Processing: MOL_0431
+[2025-05-30 16:33:49] Success: MOL_0431 converted to PDBQT
+[2025-05-30 16:33:49] Processing: MOL_0432
+[2025-05-30 16:33:49] Success: MOL_0432 converted to PDBQT
+[2025-05-30 16:33:49] Processing: MOL_0433
+[2025-05-30 16:33:50] Success: MOL_0433 converted to PDBQT
+[2025-05-30 16:33:50] Processing: MOL_0434
+[2025-05-30 16:33:50] Success: MOL_0434 converted to PDBQT
+[2025-05-30 16:33:50] Processing: MOL_0435
+[2025-05-30 16:33:50] Success: MOL_0435 converted to PDBQT
+[2025-05-30 16:33:50] Processing: MOL_0436
+[2025-05-30 16:33:50] Success: MOL_0436 converted to PDBQT
+[2025-05-30 16:33:50] Processing: MOL_0437
+[2025-05-30 16:33:50] Success: MOL_0437 converted to PDBQT
+[2025-05-30 16:33:50] Processing: MOL_0438
+[2025-05-30 16:33:50] Success: MOL_0438 converted to PDBQT
+[2025-05-30 16:33:50] Processing: MOL_0439
+[2025-05-30 16:33:51] Success: MOL_0439 converted to PDBQT
+[2025-05-30 16:33:51] Processing: MOL_0440
+[2025-05-30 16:33:51] Success: MOL_0440 converted to PDBQT
+[2025-05-30 16:33:51] Processing: MOL_0441
+[2025-05-30 16:33:51] Success: MOL_0441 converted to PDBQT
+[2025-05-30 16:33:51] Processing: MOL_0442
+[2025-05-30 16:33:51] Success: MOL_0442 converted to PDBQT
+[2025-05-30 16:33:51] Processing: MOL_0443
+[2025-05-30 16:33:51] Success: MOL_0443 converted to PDBQT
+[2025-05-30 16:33:51] Processing: MOL_0444
+[2025-05-30 16:33:51] Success: MOL_0444 converted to PDBQT
+[2025-05-30 16:33:51] Processing: MOL_0445
+[2025-05-30 16:33:52] Success: MOL_0445 converted to PDBQT
+[2025-05-30 16:33:52] Processing: MOL_0446
+[2025-05-30 16:33:52] Success: MOL_0446 converted to PDBQT
+[2025-05-30 16:33:52] Processing: MOL_0447
+[2025-05-30 16:33:52] Success: MOL_0447 converted to PDBQT
+[2025-05-30 16:33:52] Processing: MOL_0448
+[2025-05-30 16:33:52] Success: MOL_0448 converted to PDBQT
+[2025-05-30 16:33:52] Processing: MOL_0449
+[2025-05-30 16:33:52] Success: MOL_0449 converted to PDBQT
+[2025-05-30 16:33:52] Processing: MOL_0450
+[2025-05-30 16:33:52] Success: MOL_0450 converted to PDBQT
+[2025-05-30 16:33:52] Processing: MOL_0451
+[2025-05-30 16:33:53] Success: MOL_0451 converted to PDBQT
+[2025-05-30 16:33:53] Processing: MOL_0452
+[2025-05-30 16:33:53] Success: MOL_0452 converted to PDBQT
+[2025-05-30 16:33:53] Processing: MOL_0453
+[2025-05-30 16:33:53] Success: MOL_0453 converted to PDBQT
+[2025-05-30 16:33:53] Processing: MOL_0454
+[2025-05-30 16:33:53] Success: MOL_0454 converted to PDBQT
+[2025-05-30 16:33:53] Processing: MOL_0455
+[2025-05-30 16:33:53] Success: MOL_0455 converted to PDBQT
+[2025-05-30 16:33:53] Processing: MOL_0456
+[2025-05-30 16:33:54] Success: MOL_0456 converted to PDBQT
+[2025-05-30 16:33:54] Processing: MOL_0457
+[2025-05-30 16:33:54] Success: MOL_0457 converted to PDBQT
+[2025-05-30 16:33:54] Processing: MOL_0458
+[2025-05-30 16:33:54] Success: MOL_0458 converted to PDBQT
+[2025-05-30 16:33:54] Processing: MOL_0459
+[2025-05-30 16:33:54] Success: MOL_0459 converted to PDBQT
+[2025-05-30 16:33:54] Processing: MOL_0460
+[2025-05-30 16:33:54] Success: MOL_0460 converted to PDBQT
+[2025-05-30 16:33:54] Processing: MOL_0461
+[2025-05-30 16:33:54] Success: MOL_0461 converted to PDBQT
+[2025-05-30 16:33:54] Processing: MOL_0462
+[2025-05-30 16:33:55] Success: MOL_0462 converted to PDBQT
+[2025-05-30 16:33:55] Processing: MOL_0463
+[2025-05-30 16:33:55] Success: MOL_0463 converted to PDBQT
+[2025-05-30 16:33:55] Processing: MOL_0464
+[2025-05-30 16:33:55] Success: MOL_0464 converted to PDBQT
+[2025-05-30 16:33:55] Processing: MOL_0465
+[2025-05-30 16:33:55] Success: MOL_0465 converted to PDBQT
+[2025-05-30 16:33:55] Processing: MOL_0466
+[2025-05-30 16:33:55] Success: MOL_0466 converted to PDBQT
+[2025-05-30 16:33:55] Processing: MOL_0467
+[2025-05-30 16:33:55] Success: MOL_0467 converted to PDBQT
+[2025-05-30 16:33:55] Processing: MOL_0468
+[2025-05-30 16:33:56] Success: MOL_0468 converted to PDBQT
+[2025-05-30 16:33:56] Processing: MOL_0469
+[2025-05-30 16:33:56] Success: MOL_0469 converted to PDBQT
+[2025-05-30 16:33:56] Processing: MOL_0470
+[2025-05-30 16:33:56] Success: MOL_0470 converted to PDBQT
+[2025-05-30 16:33:56] Processing: MOL_0471
+[2025-05-30 16:33:56] Success: MOL_0471 converted to PDBQT
+[2025-05-30 16:33:56] Processing: MOL_0472
+[2025-05-30 16:33:56] Success: MOL_0472 converted to PDBQT
+[2025-05-30 16:33:56] Processing: MOL_0473
+[2025-05-30 16:33:56] Success: MOL_0473 converted to PDBQT
+[2025-05-30 16:33:56] Processing: MOL_0474
+[2025-05-30 16:33:57] Success: MOL_0474 converted to PDBQT
+[2025-05-30 16:33:57] Processing: MOL_0475
+[2025-05-30 16:33:57] Success: MOL_0475 converted to PDBQT
+[2025-05-30 16:33:57] Processing: MOL_0476
+[2025-05-30 16:33:57] Success: MOL_0476 converted to PDBQT
+[2025-05-30 16:33:57] Processing: MOL_0477
+[2025-05-30 16:33:57] Success: MOL_0477 converted to PDBQT
+[2025-05-30 16:33:57] Processing: MOL_0478
+[2025-05-30 16:33:57] Success: MOL_0478 converted to PDBQT
+[2025-05-30 16:33:57] Processing: MOL_0479
+[2025-05-30 16:33:57] Success: MOL_0479 converted to PDBQT
+[2025-05-30 16:33:57] Processing: MOL_0480
+[2025-05-30 16:33:58] Success: MOL_0480 converted to PDBQT
+[2025-05-30 16:33:58] Processing: MOL_0481
+[2025-05-30 16:33:58] Success: MOL_0481 converted to PDBQT
+[2025-05-30 16:33:58] Processing: MOL_0482
+[2025-05-30 16:33:58] Success: MOL_0482 converted to PDBQT
+[2025-05-30 16:33:58] Processing: MOL_0483
+[2025-05-30 16:33:58] Success: MOL_0483 converted to PDBQT
+[2025-05-30 16:33:58] Processing: MOL_0484
+[2025-05-30 16:33:58] Success: MOL_0484 converted to PDBQT
+[2025-05-30 16:33:58] Processing: MOL_0485
+[2025-05-30 16:33:58] Success: MOL_0485 converted to PDBQT
+[2025-05-30 16:33:58] Processing: MOL_0486
+[2025-05-30 16:33:59] Success: MOL_0486 converted to PDBQT
+[2025-05-30 16:33:59] Processing: MOL_0487
+[2025-05-30 16:33:59] Success: MOL_0487 converted to PDBQT
+[2025-05-30 16:33:59] Processing: MOL_0488
+[2025-05-30 16:33:59] Success: MOL_0488 converted to PDBQT
+[2025-05-30 16:33:59] Processing: MOL_0489
+[2025-05-30 16:33:59] Success: MOL_0489 converted to PDBQT
+[2025-05-30 16:33:59] Processing: MOL_0490
+[2025-05-30 16:33:59] Success: MOL_0490 converted to PDBQT
+[2025-05-30 16:33:59] Processing: MOL_0491
+[2025-05-30 16:34:00] Success: MOL_0491 converted to PDBQT
+[2025-05-30 16:34:00] Processing: MOL_0492
+[2025-05-30 16:34:00] Success: MOL_0492 converted to PDBQT
+[2025-05-30 16:34:00] Processing: MOL_0493
+[2025-05-30 16:34:00] Success: MOL_0493 converted to PDBQT
+[2025-05-30 16:34:00] Processing: MOL_0494
+[2025-05-30 16:34:00] Success: MOL_0494 converted to PDBQT
+[2025-05-30 16:34:00] Processing: MOL_0495
+[2025-05-30 16:34:00] Success: MOL_0495 converted to PDBQT
+[2025-05-30 16:34:00] Processing: MOL_0496
+[2025-05-30 16:34:01] Success: MOL_0496 converted to PDBQT
+[2025-05-30 16:34:01] Processing: MOL_0497
+[2025-05-30 16:34:01] Success: MOL_0497 converted to PDBQT
+[2025-05-30 16:34:01] Processing: MOL_0498
+[2025-05-30 16:34:01] Success: MOL_0498 converted to PDBQT
+[2025-05-30 16:34:01] Processing: MOL_0499
+[2025-05-30 16:34:01] Success: MOL_0499 converted to PDBQT
+[2025-05-30 16:34:01] Processing: MOL_0500
+[2025-05-30 16:34:01] Success: MOL_0500 converted to PDBQT
+[2025-05-30 16:34:01] Processing: MOL_0501
+[2025-05-30 16:34:02] Success: MOL_0501 converted to PDBQT
+[2025-05-30 16:34:02] Processing: MOL_0502
+[2025-05-30 16:34:02] Success: MOL_0502 converted to PDBQT
+[2025-05-30 16:34:02] Processing: MOL_0503
+[2025-05-30 16:34:02] Success: MOL_0503 converted to PDBQT
+[2025-05-30 16:34:02] Processing: MOL_0504
+[2025-05-30 16:34:02] Success: MOL_0504 converted to PDBQT
+[2025-05-30 16:34:02] Processing: MOL_0505
+[2025-05-30 16:34:02] Success: MOL_0505 converted to PDBQT
+[2025-05-30 16:34:02] Processing: MOL_0506
+[2025-05-30 16:34:02] Success: MOL_0506 converted to PDBQT
+[2025-05-30 16:34:02] Processing: MOL_0507
+[2025-05-30 16:34:03] Success: MOL_0507 converted to PDBQT
+[2025-05-30 16:34:03] Processing: MOL_0508
+[2025-05-30 16:34:03] Success: MOL_0508 converted to PDBQT
+[2025-05-30 16:34:03] Processing: MOL_0509
+[2025-05-30 16:34:03] Success: MOL_0509 converted to PDBQT
+[2025-05-30 16:34:03] Processing: MOL_0510
+[2025-05-30 16:34:03] Success: MOL_0510 converted to PDBQT
+[2025-05-30 16:34:03] Processing: MOL_0511
+[2025-05-30 16:34:03] Success: MOL_0511 converted to PDBQT
+[2025-05-30 16:34:03] Processing: MOL_0512
+[2025-05-30 16:34:04] Success: MOL_0512 converted to PDBQT
+[2025-05-30 16:34:04] Processing: MOL_0513
+[2025-05-30 16:34:04] Success: MOL_0513 converted to PDBQT
+[2025-05-30 16:34:04] Processing: MOL_0514
+[2025-05-30 16:34:04] Success: MOL_0514 converted to PDBQT
+[2025-05-30 16:34:04] Processing: MOL_0515
+[2025-05-30 16:34:04] Success: MOL_0515 converted to PDBQT
+[2025-05-30 16:34:04] Processing: MOL_0516
+[2025-05-30 16:34:04] Success: MOL_0516 converted to PDBQT
+[2025-05-30 16:34:04] Processing: MOL_0517
+[2025-05-30 16:34:04] Success: MOL_0517 converted to PDBQT
+[2025-05-30 16:34:04] Processing: MOL_0518
+[2025-05-30 16:34:05] Success: MOL_0518 converted to PDBQT
+[2025-05-30 16:34:05] Processing: MOL_0519
+[2025-05-30 16:34:05] Success: MOL_0519 converted to PDBQT
+[2025-05-30 16:34:05] Processing: MOL_0520
+[2025-05-30 16:34:05] Success: MOL_0520 converted to PDBQT
+[2025-05-30 16:34:05] Processing: MOL_0521
+[2025-05-30 16:34:05] Success: MOL_0521 converted to PDBQT
+[2025-05-30 16:34:05] Processing: MOL_0522
+[2025-05-30 16:34:05] Success: MOL_0522 converted to PDBQT
+[2025-05-30 16:34:05] Processing: MOL_0523
+[2025-05-30 16:34:05] Success: MOL_0523 converted to PDBQT
+[2025-05-30 16:34:05] Processing: MOL_0524
+[2025-05-30 16:34:06] Success: MOL_0524 converted to PDBQT
+[2025-05-30 16:34:06] Processing: MOL_0525
+[2025-05-30 16:34:06] Success: MOL_0525 converted to PDBQT
+[2025-05-30 16:34:06] Processing: MOL_0526
+[2025-05-30 16:34:06] Success: MOL_0526 converted to PDBQT
+[2025-05-30 16:34:06] Processing: MOL_0527
+[2025-05-30 16:34:06] Success: MOL_0527 converted to PDBQT
+[2025-05-30 16:34:06] Processing: MOL_0528
+[2025-05-30 16:34:06] Success: MOL_0528 converted to PDBQT
+[2025-05-30 16:34:06] Processing: MOL_0529
+[2025-05-30 16:34:06] Success: MOL_0529 converted to PDBQT
+[2025-05-30 16:34:06] Processing: MOL_0530
+[2025-05-30 16:34:07] Success: MOL_0530 converted to PDBQT
+[2025-05-30 16:34:07] Processing: MOL_0531
+[2025-05-30 16:34:07] Success: MOL_0531 converted to PDBQT
+[2025-05-30 16:34:07] Processing: MOL_0532
+[2025-05-30 16:34:07] Success: MOL_0532 converted to PDBQT
+[2025-05-30 16:34:07] Processing: MOL_0533
+[2025-05-30 16:34:07] Success: MOL_0533 converted to PDBQT
+[2025-05-30 16:34:07] Processing: MOL_0534
+[2025-05-30 16:34:07] Success: MOL_0534 converted to PDBQT
+[2025-05-30 16:34:07] Processing: MOL_0535
+[2025-05-30 16:34:07] Success: MOL_0535 converted to PDBQT
+[2025-05-30 16:34:07] Processing: MOL_0536
+[2025-05-30 16:34:08] Success: MOL_0536 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0537
+[2025-05-30 16:34:08] Success: MOL_0537 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0538
+[2025-05-30 16:34:08] Success: MOL_0538 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0539
+[2025-05-30 16:34:08] Success: MOL_0539 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0540
+[2025-05-30 16:34:08] Success: MOL_0540 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0541
+[2025-05-30 16:34:08] Success: MOL_0541 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0542
+[2025-05-30 16:34:08] Success: MOL_0542 converted to PDBQT
+[2025-05-30 16:34:08] Processing: MOL_0543
+[2025-05-30 16:34:09] Success: MOL_0543 converted to PDBQT
+[2025-05-30 16:34:09] Processing: MOL_0544
+[2025-05-30 16:34:09] Success: MOL_0544 converted to PDBQT
+[2025-05-30 16:34:09] Processing: MOL_0545
+[2025-05-30 16:34:09] Success: MOL_0545 converted to PDBQT
+[2025-05-30 16:34:09] Processing: MOL_0546
+[2025-05-30 16:34:09] Success: MOL_0546 converted to PDBQT
+[2025-05-30 16:34:09] Processing: MOL_0547
+[2025-05-30 16:34:09] Success: MOL_0547 converted to PDBQT
+[2025-05-30 16:34:09] Processing: MOL_0548
+[2025-05-30 16:34:09] Success: MOL_0548 converted to PDBQT
+[2025-05-30 16:34:09] Processing: MOL_0549
+[2025-05-30 16:34:10] Success: MOL_0549 converted to PDBQT
+[2025-05-30 16:34:10] Processing: MOL_0550
+[2025-05-30 16:34:10] Success: MOL_0550 converted to PDBQT
+[2025-05-30 16:34:10] Processing: MOL_0551
+[2025-05-30 16:34:10] Success: MOL_0551 converted to PDBQT
+[2025-05-30 16:34:10] Processing: MOL_0552
+[2025-05-30 16:34:10] Success: MOL_0552 converted to PDBQT
+[2025-05-30 16:34:10] Processing: MOL_0553
+[2025-05-30 16:34:10] Success: MOL_0553 converted to PDBQT
+[2025-05-30 16:34:10] Processing: MOL_0554
+[2025-05-30 16:34:10] Success: MOL_0554 converted to PDBQT
+[2025-05-30 16:34:10] Processing: MOL_0555
+[2025-05-30 16:34:11] Success: MOL_0555 converted to PDBQT
+[2025-05-30 16:34:11] Processing: MOL_0556
+[2025-05-30 16:34:11] Success: MOL_0556 converted to PDBQT
+[2025-05-30 16:34:11] Processing: MOL_0557
+[2025-05-30 16:34:11] Success: MOL_0557 converted to PDBQT
+[2025-05-30 16:34:11] Processing: MOL_0558
+[2025-05-30 16:34:11] Success: MOL_0558 converted to PDBQT
+[2025-05-30 16:34:11] Processing: MOL_0559
+[2025-05-30 16:34:11] Success: MOL_0559 converted to PDBQT
+[2025-05-30 16:34:11] Processing: MOL_0560
+[2025-05-30 16:34:11] Success: MOL_0560 converted to PDBQT
+[2025-05-30 16:34:11] Processing: MOL_0561
+[2025-05-30 16:34:12] Success: MOL_0561 converted to PDBQT
+[2025-05-30 16:34:12] Processing: MOL_0562
+[2025-05-30 16:34:12] Success: MOL_0562 converted to PDBQT
+[2025-05-30 16:34:12] Processing: MOL_0563
+[2025-05-30 16:34:12] Success: MOL_0563 converted to PDBQT
+[2025-05-30 16:34:12] Processing: MOL_0564
+[2025-05-30 16:34:12] Success: MOL_0564 converted to PDBQT
+[2025-05-30 16:34:12] Processing: MOL_0565
+[2025-05-30 16:34:12] Success: MOL_0565 converted to PDBQT
+[2025-05-30 16:34:12] Processing: MOL_0566
+[2025-05-30 16:34:12] Success: MOL_0566 converted to PDBQT
+[2025-05-30 16:34:12] Processing: MOL_0567
+[2025-05-30 16:34:13] Success: MOL_0567 converted to PDBQT
+[2025-05-30 16:34:13] Processing: MOL_0568
+[2025-05-30 16:34:13] Success: MOL_0568 converted to PDBQT
+[2025-05-30 16:34:13] Processing: MOL_0569
+[2025-05-30 16:34:13] Success: MOL_0569 converted to PDBQT
+[2025-05-30 16:34:13] Processing: MOL_0570
+[2025-05-30 16:34:13] Success: MOL_0570 converted to PDBQT
+[2025-05-30 16:34:13] Processing: MOL_0571
+[2025-05-30 16:34:13] Success: MOL_0571 converted to PDBQT
+[2025-05-30 16:34:13] Processing: MOL_0572
+[2025-05-30 16:34:13] Success: MOL_0572 converted to PDBQT
+[2025-05-30 16:34:13] Processing: MOL_0573
+[2025-05-30 16:34:14] Success: MOL_0573 converted to PDBQT
+[2025-05-30 16:34:14] Processing: MOL_0574
+[2025-05-30 16:34:14] Success: MOL_0574 converted to PDBQT
+[2025-05-30 16:34:14] Processing: MOL_0575
+[2025-05-30 16:34:14] Success: MOL_0575 converted to PDBQT
+[2025-05-30 16:34:14] Processing: MOL_0576
+[2025-05-30 16:34:14] Success: MOL_0576 converted to PDBQT
+[2025-05-30 16:34:14] Processing: MOL_0577
+[2025-05-30 16:34:14] Success: MOL_0577 converted to PDBQT
+[2025-05-30 16:34:14] Processing: MOL_0578
+[2025-05-30 16:34:14] Success: MOL_0578 converted to PDBQT
+[2025-05-30 16:34:14] Processing: MOL_0579
+[2025-05-30 16:34:15] Success: MOL_0579 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0580
+[2025-05-30 16:34:15] Success: MOL_0580 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0581
+[2025-05-30 16:34:15] Success: MOL_0581 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0582
+[2025-05-30 16:34:15] Success: MOL_0582 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0583
+[2025-05-30 16:34:15] Success: MOL_0583 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0584
+[2025-05-30 16:34:15] Success: MOL_0584 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0585
+[2025-05-30 16:34:15] Success: MOL_0585 converted to PDBQT
+[2025-05-30 16:34:15] Processing: MOL_0586
+[2025-05-30 16:34:16] Success: MOL_0586 converted to PDBQT
+[2025-05-30 16:34:16] Processing: MOL_0587
+[2025-05-30 16:34:16] Success: MOL_0587 converted to PDBQT
+[2025-05-30 16:34:16] Processing: MOL_0588
+[2025-05-30 16:34:16] Success: MOL_0588 converted to PDBQT
+[2025-05-30 16:34:16] Processing: MOL_0589
+[2025-05-30 16:34:16] Success: MOL_0589 converted to PDBQT
+[2025-05-30 16:34:16] Processing: MOL_0590
+[2025-05-30 16:34:16] Success: MOL_0590 converted to PDBQT
+[2025-05-30 16:34:16] Processing: MOL_0591
+[2025-05-30 16:34:16] Success: MOL_0591 converted to PDBQT
+[2025-05-30 16:34:16] Processing: MOL_0592
+[2025-05-30 16:34:17] Success: MOL_0592 converted to PDBQT
+[2025-05-30 16:34:17] Processing: MOL_0593
+[2025-05-30 16:34:17] Success: MOL_0593 converted to PDBQT
+[2025-05-30 16:34:17] Processing: MOL_0594
+[2025-05-30 16:34:17] Success: MOL_0594 converted to PDBQT
+[2025-05-30 16:34:17] Processing: MOL_0595
+[2025-05-30 16:34:17] Success: MOL_0595 converted to PDBQT
+[2025-05-30 16:34:17] Processing: MOL_0596
+[2025-05-30 16:34:17] Success: MOL_0596 converted to PDBQT
+[2025-05-30 16:34:17] Processing: MOL_0597
+[2025-05-30 16:34:17] Success: MOL_0597 converted to PDBQT
+[2025-05-30 16:34:17] Processing: MOL_0598
+[2025-05-30 16:34:18] Success: MOL_0598 converted to PDBQT
+[2025-05-30 16:34:18] Processing: MOL_0599
+[2025-05-30 16:34:18] Success: MOL_0599 converted to PDBQT
+[2025-05-30 16:34:18] Processing: MOL_0600
+[2025-05-30 16:34:18] Success: MOL_0600 converted to PDBQT
+[2025-05-30 16:34:18] Processing: MOL_0601
+[2025-05-30 16:34:18] Success: MOL_0601 converted to PDBQT
+[2025-05-30 16:34:18] Processing: MOL_0602
+[2025-05-30 16:34:18] Success: MOL_0602 converted to PDBQT
+[2025-05-30 16:34:18] Processing: MOL_0603
+[2025-05-30 16:34:18] Success: MOL_0603 converted to PDBQT
+[2025-05-30 16:34:18] Processing: MOL_0604
+[2025-05-30 16:34:19] Success: MOL_0604 converted to PDBQT
+[2025-05-30 16:34:19] Processing: MOL_0605
+[2025-05-30 16:34:19] Success: MOL_0605 converted to PDBQT
+[2025-05-30 16:34:19] Processing: MOL_0606
+[2025-05-30 16:34:19] Success: MOL_0606 converted to PDBQT
+[2025-05-30 16:34:19] Processing: MOL_0607
+[2025-05-30 16:34:19] Success: MOL_0607 converted to PDBQT
+[2025-05-30 16:34:19] Processing: MOL_0608
+[2025-05-30 16:34:19] Success: MOL_0608 converted to PDBQT
+[2025-05-30 16:34:19] Processing: MOL_0609
+[2025-05-30 16:34:19] Success: MOL_0609 converted to PDBQT
+[2025-05-30 16:34:19] Processing: MOL_0610
+[2025-05-30 16:34:20] Success: MOL_0610 converted to PDBQT
+[2025-05-30 16:34:20] Processing: MOL_0611
+[2025-05-30 16:34:20] Success: MOL_0611 converted to PDBQT
+[2025-05-30 16:34:20] Processing: MOL_0612
+[2025-05-30 16:34:20] Success: MOL_0612 converted to PDBQT
+[2025-05-30 16:34:20] Processing: MOL_0613
+[2025-05-30 16:34:20] Success: MOL_0613 converted to PDBQT
+[2025-05-30 16:34:20] Processing: MOL_0614
+[2025-05-30 16:34:20] Success: MOL_0614 converted to PDBQT
+[2025-05-30 16:34:20] Processing: MOL_0615
+[2025-05-30 16:34:20] Success: MOL_0615 converted to PDBQT
+[2025-05-30 16:34:20] Processing: MOL_0616
+[2025-05-30 16:34:21] Success: MOL_0616 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0617
+[2025-05-30 16:34:21] Success: MOL_0617 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0618
+[2025-05-30 16:34:21] Success: MOL_0618 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0619
+[2025-05-30 16:34:21] Success: MOL_0619 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0620
+[2025-05-30 16:34:21] Success: MOL_0620 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0621
+[2025-05-30 16:34:21] Success: MOL_0621 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0622
+[2025-05-30 16:34:21] Success: MOL_0622 converted to PDBQT
+[2025-05-30 16:34:21] Processing: MOL_0623
+[2025-05-30 16:34:22] Success: MOL_0623 converted to PDBQT
+[2025-05-30 16:34:22] Processing: MOL_0624
+[2025-05-30 16:34:22] Success: MOL_0624 converted to PDBQT
+[2025-05-30 16:34:22] Processing: MOL_0625
+[2025-05-30 16:34:22] Success: MOL_0625 converted to PDBQT
+[2025-05-30 16:34:22] Processing: MOL_0626
+[2025-05-30 16:34:22] Success: MOL_0626 converted to PDBQT
+[2025-05-30 16:34:22] Processing: MOL_0627
+[2025-05-30 16:34:22] Success: MOL_0627 converted to PDBQT
+[2025-05-30 16:34:22] Processing: MOL_0628
+[2025-05-30 16:34:22] Success: MOL_0628 converted to PDBQT
+[2025-05-30 16:34:22] Processing: MOL_0629
+[2025-05-30 16:34:23] Success: MOL_0629 converted to PDBQT
+[2025-05-30 16:34:23] Processing: MOL_0630
+[2025-05-30 16:34:23] Success: MOL_0630 converted to PDBQT
+[2025-05-30 16:34:23] Processing: MOL_0631
+[2025-05-30 16:34:23] Success: MOL_0631 converted to PDBQT
+[2025-05-30 16:34:23] Processing: MOL_0632
+[2025-05-30 16:34:23] Success: MOL_0632 converted to PDBQT
+[2025-05-30 16:34:23] Processing: MOL_0633
+[2025-05-30 16:34:23] Success: MOL_0633 converted to PDBQT
+[2025-05-30 16:34:23] Processing: MOL_0634
+[2025-05-30 16:34:23] Success: MOL_0634 converted to PDBQT
+[2025-05-30 16:34:23] Processing: MOL_0635
+[2025-05-30 16:34:24] Success: MOL_0635 converted to PDBQT
+[2025-05-30 16:34:24] Processing: MOL_0636
+[2025-05-30 16:34:24] Success: MOL_0636 converted to PDBQT
+[2025-05-30 16:34:24] Processing: MOL_0637
+[2025-05-30 16:34:24] Success: MOL_0637 converted to PDBQT
+[2025-05-30 16:34:24] Processing: MOL_0638
+[2025-05-30 16:34:24] Success: MOL_0638 converted to PDBQT
+[2025-05-30 16:34:24] Processing: MOL_0639
+[2025-05-30 16:34:24] Success: MOL_0639 converted to PDBQT
+[2025-05-30 16:34:24] Processing: MOL_0640
+[2025-05-30 16:34:24] Success: MOL_0640 converted to PDBQT
+[2025-05-30 16:34:24] Processing: MOL_0641
+[2025-05-30 16:34:25] Success: MOL_0641 converted to PDBQT
+[2025-05-30 16:34:25] Processing: MOL_0642
+[2025-05-30 16:34:25] Success: MOL_0642 converted to PDBQT
+[2025-05-30 16:34:25] Processing: MOL_0643
+[2025-05-30 16:34:25] Success: MOL_0643 converted to PDBQT
+[2025-05-30 16:34:25] Processing: MOL_0644
+[2025-05-30 16:34:25] Success: MOL_0644 converted to PDBQT
+[2025-05-30 16:34:25] Processing: MOL_0645
+[2025-05-30 16:34:25] Success: MOL_0645 converted to PDBQT
+[2025-05-30 16:34:25] Processing: MOL_0646
+[2025-05-30 16:34:25] Success: MOL_0646 converted to PDBQT
+[2025-05-30 16:34:25] Processing: MOL_0647
+[2025-05-30 16:34:26] Success: MOL_0647 converted to PDBQT
+[2025-05-30 16:34:26] Processing: MOL_0648
+[2025-05-30 16:34:26] Success: MOL_0648 converted to PDBQT
+[2025-05-30 16:34:26] Processing: MOL_0649
+[2025-05-30 16:34:26] Success: MOL_0649 converted to PDBQT
+[2025-05-30 16:34:26] Processing: MOL_0650
+[2025-05-30 16:34:26] Success: MOL_0650 converted to PDBQT
+[2025-05-30 16:34:26] Processing: MOL_0651
+[2025-05-30 16:34:26] Success: MOL_0651 converted to PDBQT
+[2025-05-30 16:34:26] Processing: MOL_0652
+[2025-05-30 16:34:26] Success: MOL_0652 converted to PDBQT
+[2025-05-30 16:34:26] Processing: MOL_0653
+[2025-05-30 16:34:27] Success: MOL_0653 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0654
+[2025-05-30 16:34:27] Success: MOL_0654 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0655
+[2025-05-30 16:34:27] Success: MOL_0655 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0656
+[2025-05-30 16:34:27] Success: MOL_0656 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0657
+[2025-05-30 16:34:27] Success: MOL_0657 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0658
+[2025-05-30 16:34:27] Success: MOL_0658 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0659
+[2025-05-30 16:34:27] Success: MOL_0659 converted to PDBQT
+[2025-05-30 16:34:27] Processing: MOL_0660
+[2025-05-30 16:34:28] Success: MOL_0660 converted to PDBQT
+[2025-05-30 16:34:28] Processing: MOL_0661
+[2025-05-30 16:34:28] Success: MOL_0661 converted to PDBQT
+[2025-05-30 16:34:28] Processing: MOL_0662
+[2025-05-30 16:34:28] Success: MOL_0662 converted to PDBQT
+[2025-05-30 16:34:28] Processing: MOL_0663
+[2025-05-30 16:34:28] Success: MOL_0663 converted to PDBQT
+[2025-05-30 16:34:28] Processing: MOL_0664
+[2025-05-30 16:34:28] Success: MOL_0664 converted to PDBQT
+[2025-05-30 16:34:28] Processing: MOL_0665
+[2025-05-30 16:34:29] Success: MOL_0665 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0666
+[2025-05-30 16:34:29] Success: MOL_0666 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0667
+[2025-05-30 16:34:29] Success: MOL_0667 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0668
+[2025-05-30 16:34:29] Success: MOL_0668 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0669
+[2025-05-30 16:34:29] Success: MOL_0669 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0670
+[2025-05-30 16:34:29] Success: MOL_0670 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0671
+[2025-05-30 16:34:29] Success: MOL_0671 converted to PDBQT
+[2025-05-30 16:34:29] Processing: MOL_0672
+[2025-05-30 16:34:30] Success: MOL_0672 converted to PDBQT
+[2025-05-30 16:34:30] Processing: MOL_0673
+[2025-05-30 16:34:30] Success: MOL_0673 converted to PDBQT
+[2025-05-30 16:34:30] Processing: MOL_0674
+[2025-05-30 16:34:30] Success: MOL_0674 converted to PDBQT
+[2025-05-30 16:34:30] Processing: MOL_0675
+[2025-05-30 16:34:30] Success: MOL_0675 converted to PDBQT
+[2025-05-30 16:34:30] Processing: MOL_0676
+[2025-05-30 16:34:30] Success: MOL_0676 converted to PDBQT
+[2025-05-30 16:34:30] Processing: MOL_0677
+[2025-05-30 16:34:30] Success: MOL_0677 converted to PDBQT
+[2025-05-30 16:34:30] Processing: MOL_0678
+[2025-05-30 16:34:31] Success: MOL_0678 converted to PDBQT
+[2025-05-30 16:34:31] Processing: MOL_0679
+[2025-05-30 16:34:31] Success: MOL_0679 converted to PDBQT
+[2025-05-30 16:34:31] Processing: MOL_0680
+[2025-05-30 16:34:31] Success: MOL_0680 converted to PDBQT
+[2025-05-30 16:34:31] Processing: MOL_0681
+[2025-05-30 16:34:31] Success: MOL_0681 converted to PDBQT
+[2025-05-30 16:34:31] Processing: MOL_0682
+[2025-05-30 16:34:31] Success: MOL_0682 converted to PDBQT
+[2025-05-30 16:34:31] Processing: MOL_0683
+[2025-05-30 16:34:31] Success: MOL_0683 converted to PDBQT
+[2025-05-30 16:34:31] Processing: MOL_0684
+[2025-05-30 16:34:32] Success: MOL_0684 converted to PDBQT
+[2025-05-30 16:34:32] Processing: MOL_0685
+[2025-05-30 16:34:32] Success: MOL_0685 converted to PDBQT
+[2025-05-30 16:34:32] Processing: MOL_0686
+[2025-05-30 16:34:32] Success: MOL_0686 converted to PDBQT
+[2025-05-30 16:34:32] Processing: MOL_0687
+[2025-05-30 16:34:32] Success: MOL_0687 converted to PDBQT
+[2025-05-30 16:34:32] Processing: MOL_0688
+[2025-05-30 16:34:32] Success: MOL_0688 converted to PDBQT
+[2025-05-30 16:34:32] Processing: MOL_0689
+[2025-05-30 16:34:32] Success: MOL_0689 converted to PDBQT
+[2025-05-30 16:34:32] Processing: MOL_0690
+[2025-05-30 16:34:33] Success: MOL_0690 converted to PDBQT
+[2025-05-30 16:34:33] Processing: MOL_0691
+[2025-05-30 16:34:33] Success: MOL_0691 converted to PDBQT
+[2025-05-30 16:34:33] Processing: MOL_0692
+[2025-05-30 16:34:33] Success: MOL_0692 converted to PDBQT
+[2025-05-30 16:34:33] Processing: MOL_0693
+[2025-05-30 16:34:33] Success: MOL_0693 converted to PDBQT
+[2025-05-30 16:34:33] Processing: MOL_0694
+[2025-05-30 16:34:33] Success: MOL_0694 converted to PDBQT
+[2025-05-30 16:34:33] Processing: MOL_0695
+[2025-05-30 16:34:33] Success: MOL_0695 converted to PDBQT
+[2025-05-30 16:34:33] Processing: MOL_0696
+[2025-05-30 16:34:34] Success: MOL_0696 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0697
+[2025-05-30 16:34:34] Success: MOL_0697 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0698
+[2025-05-30 16:34:34] Success: MOL_0698 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0699
+[2025-05-30 16:34:34] Success: MOL_0699 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0700
+[2025-05-30 16:34:34] Success: MOL_0700 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0701
+[2025-05-30 16:34:34] Success: MOL_0701 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0702
+[2025-05-30 16:34:34] Success: MOL_0702 converted to PDBQT
+[2025-05-30 16:34:34] Processing: MOL_0703
+[2025-05-30 16:34:35] Success: MOL_0703 converted to PDBQT
+[2025-05-30 16:34:35] Processing: MOL_0704
+[2025-05-30 16:34:35] Success: MOL_0704 converted to PDBQT
+[2025-05-30 16:34:35] Processing: MOL_0705
+[2025-05-30 16:34:35] Success: MOL_0705 converted to PDBQT
+[2025-05-30 16:34:35] Processing: MOL_0706
+[2025-05-30 16:34:35] Success: MOL_0706 converted to PDBQT
+[2025-05-30 16:34:35] Processing: MOL_0707
+[2025-05-30 16:34:35] Success: MOL_0707 converted to PDBQT
+[2025-05-30 16:34:35] Processing: MOL_0708
+[2025-05-30 16:34:35] Success: MOL_0708 converted to PDBQT
+[2025-05-30 16:34:35] Processing: MOL_0709
+[2025-05-30 16:34:36] Success: MOL_0709 converted to PDBQT
+[2025-05-30 16:34:36] Processing: MOL_0710
+[2025-05-30 16:34:36] Success: MOL_0710 converted to PDBQT
+[2025-05-30 16:34:36] Processing: MOL_0711
+[2025-05-30 16:34:36] Success: MOL_0711 converted to PDBQT
+[2025-05-30 16:34:36] Processing: MOL_0712
+[2025-05-30 16:34:36] Success: MOL_0712 converted to PDBQT
+[2025-05-30 16:34:36] Processing: MOL_0713
+[2025-05-30 16:34:36] Success: MOL_0713 converted to PDBQT
+[2025-05-30 16:34:36] Processing: MOL_0714
+[2025-05-30 16:34:36] Success: MOL_0714 converted to PDBQT
+[2025-05-30 16:34:36] Processing: MOL_0715
+[2025-05-30 16:34:37] Success: MOL_0715 converted to PDBQT
+[2025-05-30 16:34:37] Processing: MOL_0716
+[2025-05-30 16:34:37] Success: MOL_0716 converted to PDBQT
+[2025-05-30 16:34:37] Processing: MOL_0717
+[2025-05-30 16:34:37] Success: MOL_0717 converted to PDBQT
+[2025-05-30 16:34:37] Processing: MOL_0718
+[2025-05-30 16:34:37] Success: MOL_0718 converted to PDBQT
+[2025-05-30 16:34:37] Processing: MOL_0719
+[2025-05-30 16:34:37] Success: MOL_0719 converted to PDBQT
+[2025-05-30 16:34:37] Processing: MOL_0720
+[2025-05-30 16:34:37] Success: MOL_0720 converted to PDBQT
+[2025-05-30 16:34:37] Processing: MOL_0721
+[2025-05-30 16:34:38] Success: MOL_0721 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0722
+[2025-05-30 16:34:38] Success: MOL_0722 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0723
+[2025-05-30 16:34:38] Success: MOL_0723 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0724
+[2025-05-30 16:34:38] Success: MOL_0724 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0725
+[2025-05-30 16:34:38] Success: MOL_0725 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0726
+[2025-05-30 16:34:38] Success: MOL_0726 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0727
+[2025-05-30 16:34:38] Success: MOL_0727 converted to PDBQT
+[2025-05-30 16:34:38] Processing: MOL_0728
+[2025-05-30 16:34:39] Success: MOL_0728 converted to PDBQT
+[2025-05-30 16:34:39] Processing: MOL_0729
+[2025-05-30 16:34:39] Success: MOL_0729 converted to PDBQT
+[2025-05-30 16:34:39] Processing: MOL_0730
+[2025-05-30 16:34:39] Success: MOL_0730 converted to PDBQT
+[2025-05-30 16:34:39] Processing: MOL_0731
+[2025-05-30 16:34:39] Success: MOL_0731 converted to PDBQT
+[2025-05-30 16:34:39] Processing: MOL_0732
+[2025-05-30 16:34:39] Success: MOL_0732 converted to PDBQT
+[2025-05-30 16:34:39] Processing: MOL_0733
+[2025-05-30 16:34:39] Success: MOL_0733 converted to PDBQT
+[2025-05-30 16:34:39] Processing: MOL_0734
+[2025-05-30 16:34:40] Success: MOL_0734 converted to PDBQT
+[2025-05-30 16:34:40] Processing: MOL_0735
+[2025-05-30 16:34:40] Success: MOL_0735 converted to PDBQT
+[2025-05-30 16:34:40] Processing: MOL_0736
+[2025-05-30 16:34:40] Success: MOL_0736 converted to PDBQT
+[2025-05-30 16:34:40] Processing: MOL_0737
+[2025-05-30 16:34:40] Success: MOL_0737 converted to PDBQT
+[2025-05-30 16:34:40] Processing: MOL_0738
+[2025-05-30 16:34:40] Success: MOL_0738 converted to PDBQT
+[2025-05-30 16:34:40] Processing: MOL_0739
+[2025-05-30 16:34:40] Success: MOL_0739 converted to PDBQT
+[2025-05-30 16:34:40] Processing: MOL_0740
+[2025-05-30 16:34:41] Success: MOL_0740 converted to PDBQT
+[2025-05-30 16:34:41] Processing: MOL_0741
+[2025-05-30 16:34:41] Success: MOL_0741 converted to PDBQT
+[2025-05-30 16:34:41] Processing: MOL_0742
+[2025-05-30 16:34:41] Success: MOL_0742 converted to PDBQT
+[2025-05-30 16:34:41] Processing: MOL_0743
+[2025-05-30 16:34:41] Success: MOL_0743 converted to PDBQT
+[2025-05-30 16:34:41] Processing: MOL_0744
+[2025-05-30 16:34:41] Success: MOL_0744 converted to PDBQT
+[2025-05-30 16:34:41] Processing: MOL_0745
+[2025-05-30 16:34:41] Success: MOL_0745 converted to PDBQT
+[2025-05-30 16:34:41] Processing: MOL_0746
+[2025-05-30 16:34:42] Success: MOL_0746 converted to PDBQT
+[2025-05-30 16:34:42] Processing: MOL_0747
+[2025-05-30 16:34:42] Success: MOL_0747 converted to PDBQT
+[2025-05-30 16:34:42] Processing: MOL_0748
+[2025-05-30 16:34:42] Success: MOL_0748 converted to PDBQT
+[2025-05-30 16:34:42] Processing: MOL_0749
+[2025-05-30 16:34:42] Success: MOL_0749 converted to PDBQT
+[2025-05-30 16:34:42] Processing: MOL_0750
+[2025-05-30 16:34:42] Success: MOL_0750 converted to PDBQT
+[2025-05-30 16:34:42] Processing: MOL_0751
+[2025-05-30 16:34:42] Success: MOL_0751 converted to PDBQT
+[2025-05-30 16:34:42] Processing: MOL_0752
+[2025-05-30 16:34:43] Success: MOL_0752 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0753
+[2025-05-30 16:34:43] Success: MOL_0753 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0754
+[2025-05-30 16:34:43] Success: MOL_0754 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0755
+[2025-05-30 16:34:43] Success: MOL_0755 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0756
+[2025-05-30 16:34:43] Success: MOL_0756 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0757
+[2025-05-30 16:34:43] Success: MOL_0757 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0758
+[2025-05-30 16:34:43] Success: MOL_0758 converted to PDBQT
+[2025-05-30 16:34:43] Processing: MOL_0759
+[2025-05-30 16:34:44] Success: MOL_0759 converted to PDBQT
+[2025-05-30 16:34:44] Processing: MOL_0760
+[2025-05-30 16:34:44] Success: MOL_0760 converted to PDBQT
+[2025-05-30 16:34:44] Processing: MOL_0761
+[2025-05-30 16:34:44] Success: MOL_0761 converted to PDBQT
+[2025-05-30 16:34:44] Processing: MOL_0762
+[2025-05-30 16:34:44] Success: MOL_0762 converted to PDBQT
+[2025-05-30 16:34:44] Processing: MOL_0763
+[2025-05-30 16:34:44] Success: MOL_0763 converted to PDBQT
+[2025-05-30 16:34:44] Processing: MOL_0764
+[2025-05-30 16:34:44] Success: MOL_0764 converted to PDBQT
+[2025-05-30 16:34:44] Processing: MOL_0765
+[2025-05-30 16:34:45] Success: MOL_0765 converted to PDBQT
+[2025-05-30 16:34:45] Processing: MOL_0766
+[2025-05-30 16:34:45] Success: MOL_0766 converted to PDBQT
+[2025-05-30 16:34:45] Processing: MOL_0767
+[2025-05-30 16:34:45] Success: MOL_0767 converted to PDBQT
+[2025-05-30 16:34:45] Processing: MOL_0768
+[2025-05-30 16:34:45] Success: MOL_0768 converted to PDBQT
+[2025-05-30 16:34:45] Processing: MOL_0769
+[2025-05-30 16:34:45] Success: MOL_0769 converted to PDBQT
+[2025-05-30 16:34:45] Processing: MOL_0770
+[2025-05-30 16:34:45] Success: MOL_0770 converted to PDBQT
+[2025-05-30 16:34:45] Processing: MOL_0771
+[2025-05-30 16:34:46] Success: MOL_0771 converted to PDBQT
+[2025-05-30 16:34:46] Processing: MOL_0772
+[2025-05-30 16:34:46] Success: MOL_0772 converted to PDBQT
+[2025-05-30 16:34:46] Processing: MOL_0773
+[2025-05-30 16:34:46] Success: MOL_0773 converted to PDBQT
+[2025-05-30 16:34:46] Processing: MOL_0774
+[2025-05-30 16:34:46] Success: MOL_0774 converted to PDBQT
+[2025-05-30 16:34:46] Processing: MOL_0775
+[2025-05-30 16:34:46] Success: MOL_0775 converted to PDBQT
+[2025-05-30 16:34:46] Processing: MOL_0776
+[2025-05-30 16:34:46] Success: MOL_0776 converted to PDBQT
+[2025-05-30 16:34:46] Processing: MOL_0777
+[2025-05-30 16:34:47] Success: MOL_0777 converted to PDBQT
+[2025-05-30 16:34:47] Processing: MOL_0778
+[2025-05-30 16:34:47] Success: MOL_0778 converted to PDBQT
+[2025-05-30 16:34:47] Processing: MOL_0779
+[2025-05-30 16:34:47] Success: MOL_0779 converted to PDBQT
+[2025-05-30 16:34:47] Processing: MOL_0780
+[2025-05-30 16:34:47] Success: MOL_0780 converted to PDBQT
+[2025-05-30 16:34:47] Processing: MOL_0781
+[2025-05-30 16:34:47] Success: MOL_0781 converted to PDBQT
+[2025-05-30 16:34:47] Processing: MOL_0782
+[2025-05-30 16:34:47] Success: MOL_0782 converted to PDBQT
+[2025-05-30 16:34:47] Processing: MOL_0783
+[2025-05-30 16:34:48] Success: MOL_0783 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0784
+[2025-05-30 16:34:48] Success: MOL_0784 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0785
+[2025-05-30 16:34:48] Success: MOL_0785 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0786
+[2025-05-30 16:34:48] Success: MOL_0786 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0787
+[2025-05-30 16:34:48] Success: MOL_0787 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0788
+[2025-05-30 16:34:48] Success: MOL_0788 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0789
+[2025-05-30 16:34:48] Success: MOL_0789 converted to PDBQT
+[2025-05-30 16:34:48] Processing: MOL_0790
+[2025-05-30 16:34:49] Success: MOL_0790 converted to PDBQT
+[2025-05-30 16:34:49] Processing: MOL_0791
+[2025-05-30 16:34:49] Success: MOL_0791 converted to PDBQT
+[2025-05-30 16:34:49] Processing: MOL_0792
+[2025-05-30 16:34:49] Success: MOL_0792 converted to PDBQT
+[2025-05-30 16:34:49] Processing: MOL_0793
+[2025-05-30 16:34:49] Success: MOL_0793 converted to PDBQT
+[2025-05-30 16:34:49] Processing: MOL_0794
+[2025-05-30 16:34:49] Success: MOL_0794 converted to PDBQT
+[2025-05-30 16:34:49] Processing: MOL_0795
+[2025-05-30 16:34:49] Success: MOL_0795 converted to PDBQT
+[2025-05-30 16:34:49] Processing: MOL_0796
+[2025-05-30 16:34:50] Success: MOL_0796 converted to PDBQT
+[2025-05-30 16:34:50] Processing: MOL_0797
+[2025-05-30 16:34:50] Success: MOL_0797 converted to PDBQT
+[2025-05-30 16:34:50] Processing: MOL_0798
+[2025-05-30 16:34:50] Success: MOL_0798 converted to PDBQT
+[2025-05-30 16:34:50] Processing: MOL_0799
+[2025-05-30 16:34:50] Success: MOL_0799 converted to PDBQT
+[2025-05-30 16:34:50] Processing: MOL_0800
+[2025-05-30 16:34:50] Success: MOL_0800 converted to PDBQT
+[2025-05-30 16:34:50] Processing: MOL_0801
+[2025-05-30 16:34:50] Success: MOL_0801 converted to PDBQT
+[2025-05-30 16:34:50] Processing: MOL_0802
+[2025-05-30 16:34:51] Success: MOL_0802 converted to PDBQT
+[2025-05-30 16:34:51] Processing: MOL_0803
+[2025-05-30 16:34:51] Success: MOL_0803 converted to PDBQT
+[2025-05-30 16:34:51] Processing: MOL_0804
+[2025-05-30 16:34:51] Success: MOL_0804 converted to PDBQT
+[2025-05-30 16:34:51] Processing: MOL_0805
+[2025-05-30 16:34:51] Success: MOL_0805 converted to PDBQT
+[2025-05-30 16:34:51] Processing: MOL_0806
+[2025-05-30 16:34:51] Success: MOL_0806 converted to PDBQT
+[2025-05-30 16:34:51] Processing: MOL_0807
+[2025-05-30 16:34:51] Success: MOL_0807 converted to PDBQT
+[2025-05-30 16:34:51] Processing: MOL_0808
+[2025-05-30 16:34:52] Success: MOL_0808 converted to PDBQT
+[2025-05-30 16:34:52] Processing: MOL_0809
+[2025-05-30 16:34:52] Success: MOL_0809 converted to PDBQT
+[2025-05-30 16:34:52] Processing: MOL_0810
+[2025-05-30 16:34:52] Success: MOL_0810 converted to PDBQT
+[2025-05-30 16:34:52] Processing: MOL_0811
+[2025-05-30 16:34:52] Success: MOL_0811 converted to PDBQT
+[2025-05-30 16:34:52] Processing: MOL_0812
+[2025-05-30 16:34:52] Success: MOL_0812 converted to PDBQT
+[2025-05-30 16:34:52] Processing: MOL_0814
+[2025-05-30 16:34:52] Success: MOL_0814 converted to PDBQT
+[2025-05-30 16:34:52] Processing: MOL_0815
+[2025-05-30 16:34:53] Success: MOL_0815 converted to PDBQT
+[2025-05-30 16:34:53] Processing: MOL_0817
+[2025-05-30 16:34:53] Success: MOL_0817 converted to PDBQT
+[2025-05-30 16:34:53] Processing: MOL_0818
+[2025-05-30 16:34:53] Success: MOL_0818 converted to PDBQT
+[2025-05-30 16:34:53] Processing: MOL_0819
+[2025-05-30 16:34:53] Success: MOL_0819 converted to PDBQT
+[2025-05-30 16:34:53] Processing: MOL_0820
+[2025-05-30 16:34:53] Success: MOL_0820 converted to PDBQT
+[2025-05-30 16:34:53] Processing: MOL_0821
+[2025-05-30 16:34:53] Success: MOL_0821 converted to PDBQT
+[2025-05-30 16:34:53] Processing: MOL_0822
+[2025-05-30 16:34:54] Success: MOL_0822 converted to PDBQT
+[2025-05-30 16:34:54] Processing: MOL_0823
+[2025-05-30 16:34:54] Success: MOL_0823 converted to PDBQT
+[2025-05-30 16:34:54] Processing: MOL_0824
+[2025-05-30 16:34:54] Success: MOL_0824 converted to PDBQT
+[2025-05-30 16:34:54] Processing: MOL_0825
+[2025-05-30 16:34:54] Success: MOL_0825 converted to PDBQT
+[2025-05-30 16:34:54] Processing: MOL_0827
+[2025-05-30 16:34:54] Success: MOL_0827 converted to PDBQT
+[2025-05-30 16:34:54] Processing: MOL_0828
+[2025-05-30 16:34:54] Success: MOL_0828 converted to PDBQT
+[2025-05-30 16:34:54] Processing: MOL_0829
+[2025-05-30 16:34:55] Success: MOL_0829 converted to PDBQT
+[2025-05-30 16:34:55] Processing: MOL_0830
+[2025-05-30 16:34:55] Success: MOL_0830 converted to PDBQT
+[2025-05-30 16:34:55] Processing: MOL_0831
+[2025-05-30 16:34:55] Success: MOL_0831 converted to PDBQT
+[2025-05-30 16:34:55] Processing: MOL_0833
+[2025-05-30 16:34:55] Success: MOL_0833 converted to PDBQT
+[2025-05-30 16:34:55] Processing: MOL_0834
+[2025-05-30 16:34:55] Success: MOL_0834 converted to PDBQT
+[2025-05-30 16:34:55] Processing: MOL_0836
+[2025-05-30 16:34:55] Success: MOL_0836 converted to PDBQT
+[2025-05-30 16:34:55] Processing: MOL_0837
+[2025-05-30 16:34:56] Success: MOL_0837 converted to PDBQT
+[2025-05-30 16:34:56] Processing: MOL_0838
+[2025-05-30 16:34:56] Success: MOL_0838 converted to PDBQT
+[2025-05-30 16:34:56] Processing: MOL_0840
+[2025-05-30 16:34:56] Success: MOL_0840 converted to PDBQT
+[2025-05-30 16:34:56] Processing: MOL_0841
+[2025-05-30 16:34:56] Success: MOL_0841 converted to PDBQT
+[2025-05-30 16:34:56] Processing: MOL_0842
+[2025-05-30 16:34:56] Success: MOL_0842 converted to PDBQT
+[2025-05-30 16:34:56] Processing: MOL_0843
+[2025-05-30 16:34:56] Success: MOL_0843 converted to PDBQT
+[2025-05-30 16:34:56] Processing: MOL_0844
+[2025-05-30 16:34:57] Success: MOL_0844 converted to PDBQT
+[2025-05-30 16:34:57] Processing: MOL_0846
+[2025-05-30 16:34:57] Success: MOL_0846 converted to PDBQT
+[2025-05-30 16:34:57] Processing: MOL_0847
+[2025-05-30 16:34:57] Success: MOL_0847 converted to PDBQT
+[2025-05-30 16:34:57] Processing: MOL_0848
+[2025-05-30 16:34:57] Success: MOL_0848 converted to PDBQT
+[2025-05-30 16:34:57] Processing: MOL_0849
+[2025-05-30 16:34:57] Success: MOL_0849 converted to PDBQT
+[2025-05-30 16:34:57] Processing: MOL_0850
+[2025-05-30 16:34:57] Success: MOL_0850 converted to PDBQT
+[2025-05-30 16:34:57] Processing: MOL_0851
+[2025-05-30 16:34:58] Success: MOL_0851 converted to PDBQT
+[2025-05-30 16:34:58] Processing: MOL_0852
+[2025-05-30 16:34:58] Success: MOL_0852 converted to PDBQT
+[2025-05-30 16:34:58] Processing: MOL_0853
+[2025-05-30 16:34:58] Success: MOL_0853 converted to PDBQT
+[2025-05-30 16:34:58] Processing: MOL_0854
+[2025-05-30 16:34:58] Success: MOL_0854 converted to PDBQT
+[2025-05-30 16:34:58] Processing: MOL_0856
+[2025-05-30 16:34:58] Success: MOL_0856 converted to PDBQT
+[2025-05-30 16:34:58] Processing: MOL_0858
+[2025-05-30 16:34:58] Success: MOL_0858 converted to PDBQT
+[2025-05-30 16:34:58] Processing: MOL_0859
+[2025-05-30 16:34:59] Success: MOL_0859 converted to PDBQT
+[2025-05-30 16:34:59] Processing: MOL_0861
+[2025-05-30 16:34:59] Success: MOL_0861 converted to PDBQT
+[2025-05-30 16:34:59] Processing: MOL_0863
+[2025-05-30 16:34:59] Success: MOL_0863 converted to PDBQT
+[2025-05-30 16:34:59] Processing: MOL_0864
+[2025-05-30 16:34:59] Success: MOL_0864 converted to PDBQT
+[2025-05-30 16:34:59] Processing: MOL_0866
+[2025-05-30 16:34:59] Success: MOL_0866 converted to PDBQT
+[2025-05-30 16:34:59] Processing: MOL_0867
+[2025-05-30 16:34:59] Success: MOL_0867 converted to PDBQT
+[2025-05-30 16:34:59] Processing: MOL_0868
+[2025-05-30 16:35:00] Success: MOL_0868 converted to PDBQT
+[2025-05-30 16:35:00] Processing: MOL_0869
+[2025-05-30 16:35:00] Success: MOL_0869 converted to PDBQT
+[2025-05-30 16:35:00] Processing: MOL_0870
+[2025-05-30 16:35:00] Success: MOL_0870 converted to PDBQT
+[2025-05-30 16:35:00] Processing: MOL_0871
+[2025-05-30 16:35:00] Success: MOL_0871 converted to PDBQT
+[2025-05-30 16:35:00] Processing: MOL_0872
+[2025-05-30 16:35:00] Success: MOL_0872 converted to PDBQT
+[2025-05-30 16:35:00] Processing: MOL_0873
+[2025-05-30 16:35:00] Success: MOL_0873 converted to PDBQT
+[2025-05-30 16:35:00] Processing: MOL_0874
+[2025-05-30 16:35:01] Success: MOL_0874 converted to PDBQT
+[2025-05-30 16:35:01] Processing: MOL_0875
+[2025-05-30 16:35:01] Success: MOL_0875 converted to PDBQT
+[2025-05-30 16:35:01] Processing: MOL_0876
+[2025-05-30 16:35:01] Success: MOL_0876 converted to PDBQT
+[2025-05-30 16:35:01] Processing: MOL_0877
+[2025-05-30 16:35:01] Success: MOL_0877 converted to PDBQT
+[2025-05-30 16:35:01] Processing: MOL_0879
+[2025-05-30 16:35:01] Success: MOL_0879 converted to PDBQT
+[2025-05-30 16:35:01] Processing: MOL_0880
+[2025-05-30 16:35:01] Success: MOL_0880 converted to PDBQT
+[2025-05-30 16:35:01] Processing: MOL_0881
+[2025-05-30 16:35:02] Success: MOL_0881 converted to PDBQT
+[2025-05-30 16:35:02] Processing: MOL_0882
+[2025-05-30 16:35:02] Success: MOL_0882 converted to PDBQT
+[2025-05-30 16:35:02] Processing: MOL_0883
+[2025-05-30 16:35:02] Success: MOL_0883 converted to PDBQT
+[2025-05-30 16:35:02] Processing: MOL_0884
+[2025-05-30 16:35:02] Success: MOL_0884 converted to PDBQT
+[2025-05-30 16:35:02] Processing: MOL_0885
+[2025-05-30 16:35:02] Success: MOL_0885 converted to PDBQT
+[2025-05-30 16:35:02] Processing: MOL_0886
+[2025-05-30 16:35:02] Success: MOL_0886 converted to PDBQT
+[2025-05-30 16:35:02] Processing: MOL_0887
+[2025-05-30 16:35:03] Success: MOL_0887 converted to PDBQT
+[2025-05-30 16:35:03] Processing: MOL_0888
+[2025-05-30 16:35:03] Success: MOL_0888 converted to PDBQT
+[2025-05-30 16:35:03] Processing: MOL_0889
+[2025-05-30 16:35:03] Success: MOL_0889 converted to PDBQT
+[2025-05-30 16:35:03] Processing: MOL_0890
+[2025-05-30 16:35:03] Success: MOL_0890 converted to PDBQT
+[2025-05-30 16:35:03] Processing: MOL_0891
+[2025-05-30 16:35:03] Success: MOL_0891 converted to PDBQT
+[2025-05-30 16:35:03] Processing: MOL_0892
+[2025-05-30 16:35:03] Success: MOL_0892 converted to PDBQT
+[2025-05-30 16:35:03] Processing: MOL_0893
+[2025-05-30 16:35:04] Success: MOL_0893 converted to PDBQT
+[2025-05-30 16:35:04] Processing: MOL_0894
+[2025-05-30 16:35:04] Success: MOL_0894 converted to PDBQT
+[2025-05-30 16:35:04] Processing: MOL_0896
+[2025-05-30 16:35:04] Success: MOL_0896 converted to PDBQT
+[2025-05-30 16:35:04] Processing: MOL_0897
+[2025-05-30 16:35:04] Success: MOL_0897 converted to PDBQT
+[2025-05-30 16:35:04] Processing: MOL_0898
+[2025-05-30 16:35:04] Success: MOL_0898 converted to PDBQT
+[2025-05-30 16:35:04] Processing: MOL_0899
+[2025-05-30 16:35:04] Success: MOL_0899 converted to PDBQT
+[2025-05-30 16:35:04] Processing: MOL_0900
+[2025-05-30 16:35:05] Success: MOL_0900 converted to PDBQT
+[2025-05-30 16:35:05] Processing: MOL_0901
+[2025-05-30 16:35:05] Success: MOL_0901 converted to PDBQT
+[2025-05-30 16:35:05] Processing: MOL_0902
+[2025-05-30 16:35:05] Success: MOL_0902 converted to PDBQT
+[2025-05-30 16:35:05] Processing: MOL_0903
+[2025-05-30 16:35:05] Success: MOL_0903 converted to PDBQT
+[2025-05-30 16:35:05] Processing: MOL_0905
+[2025-05-30 16:35:05] Success: MOL_0905 converted to PDBQT
+[2025-05-30 16:35:05] Processing: MOL_0906
+[2025-05-30 16:35:05] Success: MOL_0906 converted to PDBQT
+[2025-05-30 16:35:05] Processing: MOL_0907
+[2025-05-30 16:35:06] Success: MOL_0907 converted to PDBQT
+[2025-05-30 16:35:06] Processing: MOL_0908
+[2025-05-30 16:35:06] Success: MOL_0908 converted to PDBQT
+[2025-05-30 16:35:06] Processing: MOL_0909
+[2025-05-30 16:35:06] Success: MOL_0909 converted to PDBQT
+[2025-05-30 16:35:06] Processing: MOL_0910
+[2025-05-30 16:35:06] Success: MOL_0910 converted to PDBQT
+[2025-05-30 16:35:06] Processing: MOL_0911
+[2025-05-30 16:35:06] Success: MOL_0911 converted to PDBQT
+[2025-05-30 16:35:06] Processing: MOL_0912
+[2025-05-30 16:35:06] Success: MOL_0912 converted to PDBQT
+[2025-05-30 16:35:06] Processing: MOL_0913
+[2025-05-30 16:35:07] Success: MOL_0913 converted to PDBQT
+[2025-05-30 16:35:07] Processing: MOL_0914
+[2025-05-30 16:35:07] Success: MOL_0914 converted to PDBQT
+[2025-05-30 16:35:07] Processing: MOL_0916
+[2025-05-30 16:35:07] Success: MOL_0916 converted to PDBQT
+[2025-05-30 16:35:07] Processing: MOL_0917
+[2025-05-30 16:35:07] Success: MOL_0917 converted to PDBQT
+[2025-05-30 16:35:07] Processing: MOL_0918
+[2025-05-30 16:35:07] Success: MOL_0918 converted to PDBQT
+[2025-05-30 16:35:07] Processing: MOL_0919
+[2025-05-30 16:35:07] Success: MOL_0919 converted to PDBQT
+[2025-05-30 16:35:07] Processing: MOL_0920
+[2025-05-30 16:35:08] Success: MOL_0920 converted to PDBQT
+[2025-05-30 16:35:08] Processing: MOL_0921
+[2025-05-30 16:35:08] Success: MOL_0921 converted to PDBQT
+[2025-05-30 16:35:08] Processing: MOL_0922
+[2025-05-30 16:35:08] Success: MOL_0922 converted to PDBQT
+[2025-05-30 16:35:08] Processing: MOL_0923
+[2025-05-30 16:35:08] Success: MOL_0923 converted to PDBQT
+[2025-05-30 16:35:08] Processing: MOL_0924
+[2025-05-30 16:35:08] Success: MOL_0924 converted to PDBQT
+[2025-05-30 16:35:08] Processing: MOL_0926
+[2025-05-30 16:35:08] Success: MOL_0926 converted to PDBQT
+[2025-05-30 16:35:08] Processing: MOL_0927
+[2025-05-30 16:35:09] Success: MOL_0927 converted to PDBQT
+[2025-05-30 16:35:09] Processing: MOL_0928
+[2025-05-30 16:35:09] Success: MOL_0928 converted to PDBQT
+[2025-05-30 16:35:09] Processing: MOL_0929
+[2025-05-30 16:35:09] Success: MOL_0929 converted to PDBQT
+[2025-05-30 16:35:09] Processing: MOL_0930
+[2025-05-30 16:35:09] Success: MOL_0930 converted to PDBQT
+[2025-05-30 16:35:09] Processing: MOL_0932
+[2025-05-30 16:35:10] Success: MOL_0932 converted to PDBQT
+[2025-05-30 16:35:10] Processing: MOL_0933
+[2025-05-30 16:35:10] Success: MOL_0933 converted to PDBQT
+[2025-05-30 16:35:10] Processing: MOL_0934
+[2025-05-30 16:35:10] Success: MOL_0934 converted to PDBQT
+[2025-05-30 16:35:10] Processing: MOL_0935
+[2025-05-30 16:35:10] Success: MOL_0935 converted to PDBQT
+[2025-05-30 16:35:10] Processing: MOL_0936
+[2025-05-30 16:35:10] Success: MOL_0936 converted to PDBQT
+[2025-05-30 16:35:10] Processing: MOL_0937
+[2025-05-30 16:35:10] Success: MOL_0937 converted to PDBQT
+[2025-05-30 16:35:10] Processing: MOL_0938
+[2025-05-30 16:35:11] Success: MOL_0938 converted to PDBQT
+[2025-05-30 16:35:11] Processing: MOL_0939
+[2025-05-30 16:35:11] Success: MOL_0939 converted to PDBQT
+[2025-05-30 16:35:11] Processing: MOL_0940
+[2025-05-30 16:35:11] Success: MOL_0940 converted to PDBQT
+[2025-05-30 16:35:11] Processing: MOL_0941
+[2025-05-30 16:35:11] Success: MOL_0941 converted to PDBQT
+[2025-05-30 16:35:11] Processing: MOL_0942
+[2025-05-30 16:35:11] Success: MOL_0942 converted to PDBQT
+[2025-05-30 16:35:11] Processing: MOL_0944
+[2025-05-30 16:35:11] Success: MOL_0944 converted to PDBQT
+[2025-05-30 16:35:11] Processing: MOL_0946
+[2025-05-30 16:35:12] Success: MOL_0946 converted to PDBQT
+[2025-05-30 16:35:12] Processing: MOL_0947
+[2025-05-30 16:35:12] Success: MOL_0947 converted to PDBQT
+[2025-05-30 16:35:12] Processing: MOL_0948
+[2025-05-30 16:35:12] Success: MOL_0948 converted to PDBQT
+[2025-05-30 16:35:12] Processing: MOL_0949
+[2025-05-30 16:35:12] Success: MOL_0949 converted to PDBQT
+[2025-05-30 16:35:12] Processing: MOL_0950
+[2025-05-30 16:35:12] Success: MOL_0950 converted to PDBQT
+[2025-05-30 16:35:12] Processing: MOL_0952
+[2025-05-30 16:35:12] Success: MOL_0952 converted to PDBQT
+[2025-05-30 16:35:12] Processing: MOL_0953
+[2025-05-30 16:35:13] Success: MOL_0953 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0954
+[2025-05-30 16:35:13] Success: MOL_0954 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0955
+[2025-05-30 16:35:13] Success: MOL_0955 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0956
+[2025-05-30 16:35:13] Success: MOL_0956 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0957
+[2025-05-30 16:35:13] Success: MOL_0957 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0958
+[2025-05-30 16:35:13] Success: MOL_0958 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0959
+[2025-05-30 16:35:13] Success: MOL_0959 converted to PDBQT
+[2025-05-30 16:35:13] Processing: MOL_0960
+[2025-05-30 16:35:14] Success: MOL_0960 converted to PDBQT
+[2025-05-30 16:35:14] Processing: MOL_0961
+[2025-05-30 16:35:14] Success: MOL_0961 converted to PDBQT
+[2025-05-30 16:35:14] Processing: MOL_0962
+[2025-05-30 16:35:14] Success: MOL_0962 converted to PDBQT
+[2025-05-30 16:35:14] Processing: MOL_0963
+[2025-05-30 16:35:14] Success: MOL_0963 converted to PDBQT
+[2025-05-30 16:35:14] Processing: MOL_0964
+[2025-05-30 16:35:14] Success: MOL_0964 converted to PDBQT
+[2025-05-30 16:35:14] Processing: MOL_0965
+[2025-05-30 16:35:14] Success: MOL_0965 converted to PDBQT
+[2025-05-30 16:35:14] Processing: MOL_0966
+[2025-05-30 16:35:15] Success: MOL_0966 converted to PDBQT
+[2025-05-30 16:35:15] Processing: MOL_0967
+[2025-05-30 16:35:15] Success: MOL_0967 converted to PDBQT
+[2025-05-30 16:35:15] Processing: MOL_0968
+[2025-05-30 16:35:15] Success: MOL_0968 converted to PDBQT
+[2025-05-30 16:35:15] Processing: MOL_0969
+[2025-05-30 16:35:15] Success: MOL_0969 converted to PDBQT
+[2025-05-30 16:35:15] Processing: MOL_0970
+[2025-05-30 16:35:15] Success: MOL_0970 converted to PDBQT
+[2025-05-30 16:35:15] Processing: MOL_0971
+[2025-05-30 16:35:15] Success: MOL_0971 converted to PDBQT
+[2025-05-30 16:35:15] Processing: MOL_0972
+[2025-05-30 16:35:16] Success: MOL_0972 converted to PDBQT
+[2025-05-30 16:35:16] Processing: MOL_0973
+[2025-05-30 16:35:16] Success: MOL_0973 converted to PDBQT
+[2025-05-30 16:35:16] Processing: MOL_0974
+[2025-05-30 16:35:16] Success: MOL_0974 converted to PDBQT
+[2025-05-30 16:35:16] Processing: MOL_0975
+[2025-05-30 16:35:16] Success: MOL_0975 converted to PDBQT
+[2025-05-30 16:35:16] Processing: MOL_0976
+[2025-05-30 16:35:16] Success: MOL_0976 converted to PDBQT
+[2025-05-30 16:35:16] Processing: MOL_0977
+[2025-05-30 16:35:16] Success: MOL_0977 converted to PDBQT
+[2025-05-30 16:35:16] Processing: MOL_0978
+[2025-05-30 16:35:17] Success: MOL_0978 converted to PDBQT
+[2025-05-30 16:35:17] Processing: MOL_0979
+[2025-05-30 16:35:17] Success: MOL_0979 converted to PDBQT
+[2025-05-30 16:35:17] Processing: MOL_0980
+[2025-05-30 16:35:17] Success: MOL_0980 converted to PDBQT
+[2025-05-30 16:35:17] Processing: MOL_0981
+[2025-05-30 16:35:17] Success: MOL_0981 converted to PDBQT
+[2025-05-30 16:35:17] Processing: MOL_0982
+[2025-05-30 16:35:17] Success: MOL_0982 converted to PDBQT
+[2025-05-30 16:35:17] Processing: MOL_0983
+[2025-05-30 16:35:17] Success: MOL_0983 converted to PDBQT
+[2025-05-30 16:35:17] Processing: MOL_0984
+[2025-05-30 16:35:18] Success: MOL_0984 converted to PDBQT
+[2025-05-30 16:35:18] Processing: MOL_0985
+[2025-05-30 16:35:18] Success: MOL_0985 converted to PDBQT
+[2025-05-30 16:35:18] Processing: MOL_0986
+[2025-05-30 16:35:18] Success: MOL_0986 converted to PDBQT
+[2025-05-30 16:35:18] Processing: MOL_0987
+[2025-05-30 16:35:18] Success: MOL_0987 converted to PDBQT
+[2025-05-30 16:35:18] Processing: MOL_0988
+[2025-05-30 16:35:18] Success: MOL_0988 converted to PDBQT
+[2025-05-30 16:35:18] Processing: MOL_0989
+[2025-05-30 16:35:18] Success: MOL_0989 converted to PDBQT
+[2025-05-30 16:35:18] Processing: MOL_0990
+[2025-05-30 16:35:19] Success: MOL_0990 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0991
+[2025-05-30 16:35:19] Success: MOL_0991 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0992
+[2025-05-30 16:35:19] Success: MOL_0992 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0993
+[2025-05-30 16:35:19] Success: MOL_0993 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0994
+[2025-05-30 16:35:19] Success: MOL_0994 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0995
+[2025-05-30 16:35:19] Success: MOL_0995 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0996
+[2025-05-30 16:35:19] Success: MOL_0996 converted to PDBQT
+[2025-05-30 16:35:19] Processing: MOL_0997
+[2025-05-30 16:35:20] Success: MOL_0997 converted to PDBQT
+[2025-05-30 16:35:20] Processing: MOL_0998
+[2025-05-30 16:35:20] Success: MOL_0998 converted to PDBQT
+[2025-05-30 16:35:20] Processing: MOL_0999
+[2025-05-30 16:35:20] Success: MOL_0999 converted to PDBQT
+[2025-05-30 16:35:20] Processing: MOL_1000
+[2025-05-30 16:35:20] Success: MOL_1000 converted to PDBQT
+[2025-05-30 16:35:20] 
+===== PREPARATION REPORT =====
+[2025-05-30 16:35:20] Total ligands processed: 960
+[2025-05-30 16:35:20] Successfully prepared: 960
+[2025-05-30 16:35:20] Failed: 0
+[2025-05-30 16:35:20] Process completed
