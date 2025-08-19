@@ -1,0 +1,10 @@
+SMI: /workspace/thousand-dock/tmp_1mol.smi
+Receptor: /workspace/thousand-dock/5O3L.pdbqt
+PDB generated: 1
+PDBQT generated: 1 (convert failures: 0)
+Dock failures: 0
+
+Time Step1 (SMI->PDB): 0.14s
+Time Step2 (PDB->PDBQT): 0.01s
+Time Step3 (Dock): 6.87s
+Total time: 7.02s
